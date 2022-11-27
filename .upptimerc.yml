@@ -27,11 +27,11 @@ sites:
     url: http://www.nlm.nih.gov/research/visible/visible_human.html
   - name: CT Scans for Colon Cancer
     url: https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#e88604ec5c654f60a897fa77906f88a6
-  - name: UTA4: Breast Cancer Medical Imaging DICOM Files Dataset & Resources
+  - name: UTA4 Breast Cancer Medical Imaging DICOM Files Dataset & Resources
     url: https://github.com/MIMBCD-UI/dataset-uta4-dicom
-  - name: UTA7: Breast Cancer Medical Imaging DICOM Files Dataset & Resources 
+  - name: UTA7 Breast Cancer Medical Imaging DICOM Files Dataset & Resources 
     url: https://github.com/MIMBCD-UI/dataset-uta7-dicom
-  - name: BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset
+  - name: BCNB Early Breast Cancer Core-Needle Biopsy WSI Dataset
     url: https://bupt-ai-cz.github.io/BCNB/, https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
   - name: The Cancer Genome Atlas
     url: https://tcga-data.nci.nih.gov/tcga/
@@ -41,7 +41,7 @@ sites:
     url: http://www.ipal.cnrs.fr/event/icpr-2012
   - name: Cancer Image Database
     url: https://emice.nci.nih.gov/caimage
-  - name: DPA’s Whole Slide Imaging Repository
+  - name: DPAs Whole Slide Imaging Repository
     url: https://digitalpathologyassociation.org/whole-slide-imaging-repository
   - name: ITK Analysis of Large Histology Datasets
     url: http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets
@@ -81,11 +81,11 @@ sites:
     url: http://genome.ucsc.edu/ENCODE/ 
   - name: The Human Protein Atlas
     url: http://www.proteinatlas.org/
-  - name: DRIVE: Digital Retinal Images for Vessel Extraction
+  - name: DRIVE Digital Retinal Images for Vessel Extraction
     url: http://www.isi.uu.nl/Research/Databases/DRIVE/ 
   - name: El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy
     url: http://www.gastrointestinalatlas.com/
-  - name: BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset
+  - name: BCNB Early Breast Cancer Core-Needle Biopsy WSI Dataset
     url: https://bupt-ai-cz.github.io/BCNB/, https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
   - name: DermNet - Skin disease atlas
     url: http://www.dermnet.com/
