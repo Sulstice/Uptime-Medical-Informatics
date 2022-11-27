@@ -34,7 +34,7 @@
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2022-11-27": 897
+      "2022-11-27": 907
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 906
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 917,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 906
     }
   },
   {
@@ -346,7 +346,7 @@
     "timeMonth": 590,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 906
     }
   },
   {
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 906
     }
   },
   {
@@ -566,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 905
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-27": 896
+      "2022-11-27": 905
     }
   },
   {
@@ -720,19 +720,19 @@
     "url": "http://www.isi.uu.nl/Research/Databases/DRIVE/",
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 984,
-    "timeDay": 984,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 1047,
+    "timeDay": 1047,
+    "timeWeek": 1047,
+    "timeMonth": 1047,
+    "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-11-27": 0
+      "2022-11-27": 10
     }
   },
   {
