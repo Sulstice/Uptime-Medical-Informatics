@@ -19,7 +19,7 @@ sites:
     url: http://www.oasis-brains.org/
   - name: Breast Cancer Digital Repository
     url: https://bcdr.eu/
-  - name: DDSM: Digital Database for Screening Mammography
+  - name: DDSM Digital Database for Screening Mammography
     url: http://marathon.csee.usf.edu/Mammography/Database.html
   - name: The Mammographic Image Analysis Society (MIAS) mini-database
     url: http://peipa.essex.ac.uk/info/mias.html
