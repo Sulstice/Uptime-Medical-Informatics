@@ -34,7 +34,7 @@
     "timeMonth": 310,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 674,
       "2022-11-27": 1312
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 674,
       "2022-11-27": 1311
     }
   },
@@ -148,7 +148,7 @@
     "timeMonth": 896,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 674,
       "2022-11-27": 1311
     }
   },
@@ -212,19 +212,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 575,
     "timeDay": 577,
     "timeWeek": 575,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {
-      "2022-11-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UTA4 Breast Cancer Medical Imaging DICOM Files Dataset & Resources",
@@ -322,18 +320,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "94.89%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "94.89%",
+    "uptime": "89.03%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "89.03%",
+    "uptimeMonth": "89.03%",
+    "uptimeYear": "89.03%",
     "time": 3560,
     "timeDay": 4424,
     "timeWeek": 3560,
     "timeMonth": 3560,
     "timeYear": 3560,
     "dailyMinutesDown": {
-      "2022-11-28": 95
+      "2022-11-28": 218
     }
   },
   {
@@ -353,7 +351,7 @@
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 674,
       "2022-11-27": 1311
     }
   },
@@ -446,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 675,
       "2022-11-27": 1311
     }
   },
@@ -575,7 +573,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 675,
       "2022-11-27": 1311
     }
   },
@@ -632,7 +630,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-28": 552,
+      "2022-11-28": 675,
       "2022-11-27": 1311
     }
   },
@@ -731,18 +729,20 @@
     "url": "http://www.isi.uu.nl/Research/Databases/DRIVE/",
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1126,
     "timeDay": 1197,
     "timeWeek": 1126,
     "timeMonth": 1126,
     "timeYear": 1126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-28": 0
+    }
   },
   {
     "name": "El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy",
