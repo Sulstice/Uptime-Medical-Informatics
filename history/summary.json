@@ -34,7 +34,7 @@
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-11-29": 559,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1312
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 559,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -150,7 +150,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2022-11-29": 559,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -215,19 +215,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 370,
     "timeWeek": 472,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {
-      "2022-11-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UTA4 Breast Cancer Medical Imaging DICOM Files Dataset & Resources",
@@ -325,18 +323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "53.39%",
+    "uptime": "53.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.39%",
-    "uptimeMonth": "53.39%",
-    "uptimeYear": "53.39%",
+    "uptimeWeek": "53.06%",
+    "uptimeMonth": "53.06%",
+    "uptimeYear": "53.06%",
     "time": 3789,
     "timeDay": 4474,
     "timeWeek": 3789,
     "timeMonth": 3789,
     "timeYear": 3789,
     "dailyMinutesDown": {
-      "2022-11-29": 559,
+      "2022-11-29": 580,
       "2022-11-28": 983
     }
   },
@@ -357,7 +355,7 @@
     "timeMonth": 656,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-11-29": 559,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -451,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 560,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -515,18 +513,20 @@
     "url": "http://mde-lab.aegean.gr/index.php/downloads",
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1064,
     "timeDay": 1108,
     "timeWeek": 1064,
     "timeMonth": 1064,
     "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   },
   {
     "name": "Histology (CIMA) dataset",
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 560,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -639,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 560,
+      "2022-11-29": 580,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
