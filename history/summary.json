@@ -34,7 +34,7 @@
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1312
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -150,7 +150,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -214,18 +214,20 @@
     "url": "https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#e88604ec5c654f60a897fa77906f88a6",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 531,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 456,
+    "timeDay": 425,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "UTA4 Breast Cancer Medical Imaging DICOM Files Dataset & Resources",
@@ -323,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "63.80%",
-    "uptimeDay": "30.36%",
-    "uptimeWeek": "63.80%",
-    "uptimeMonth": "63.80%",
-    "uptimeYear": "63.80%",
+    "uptime": "53.58%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "53.58%",
+    "uptimeMonth": "53.58%",
+    "uptimeYear": "53.58%",
     "time": 3789,
-    "timeDay": 5939,
+    "timeDay": 4474,
     "timeWeek": 3789,
     "timeMonth": 3789,
     "timeYear": 3789,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 983
     }
   },
@@ -355,7 +357,7 @@
     "timeMonth": 656,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -449,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -579,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -637,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 19,
+      "2022-11-29": 548,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
