@@ -34,7 +34,7 @@
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1312
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -150,7 +150,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -323,18 +323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "53.06%",
+    "uptime": "52.96%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.06%",
-    "uptimeMonth": "53.06%",
-    "uptimeYear": "53.06%",
+    "uptimeWeek": "52.96%",
+    "uptimeMonth": "52.96%",
+    "uptimeYear": "52.96%",
     "time": 3789,
     "timeDay": 4474,
     "timeWeek": 3789,
     "timeMonth": 3789,
     "timeYear": 3789,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 983
     }
   },
@@ -355,7 +355,7 @@
     "timeMonth": 656,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -513,19 +513,19 @@
     "url": "http://mde-lab.aegean.gr/index.php/downloads",
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1064,
-    "timeDay": 1108,
-    "timeWeek": 1064,
-    "timeMonth": 1064,
-    "timeYear": 1064,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1152,
+    "timeDay": 1261,
+    "timeWeek": 1152,
+    "timeMonth": 1152,
+    "timeYear": 1152,
     "dailyMinutesDown": {
-      "2022-11-29": 0
+      "2022-11-29": 6
     }
   },
   {
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
@@ -639,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 580,
+      "2022-11-29": 586,
       "2022-11-28": 1440,
       "2022-11-27": 1311
     }
