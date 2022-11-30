@@ -34,7 +34,7 @@
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1312
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -122,19 +122,19 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
-    "time": 346,
-    "timeDay": 314,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
+    "time": 368,
+    "timeDay": 351,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-11-30": 64,
+      "2022-11-30": 91,
       "2022-11-29": 66
     }
   },
@@ -155,7 +155,7 @@
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -329,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "40.41%",
+    "uptime": "40.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.41%",
-    "uptimeMonth": "40.41%",
-    "uptimeYear": "40.41%",
+    "uptimeWeek": "40.16%",
+    "uptimeMonth": "40.16%",
+    "uptimeYear": "40.16%",
     "time": 3740,
     "timeDay": 3546,
     "timeWeek": 3740,
     "timeMonth": 3740,
     "timeYear": 3740,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 983
     }
@@ -362,7 +362,7 @@
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -457,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -588,7 +588,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -647,7 +647,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 183,
+      "2022-11-30": 211,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
