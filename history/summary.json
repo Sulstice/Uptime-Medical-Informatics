@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.civm.duhs.duke.edu.ico",
     "slug": "center-for-invivo-microscopy",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1514,
     "timeDay": 1955,
     "timeWeek": 1514,
     "timeMonth": 1514,
     "timeYear": 1514,
-    "dailyMinutesDown": {
-      "2022-11-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Embrionic and Neonatal Mouse",
@@ -36,7 +34,7 @@
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1312
@@ -77,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -124,12 +122,12 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "89.09%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "96.49%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "89.06%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "96.48%",
     "time": 368,
     "timeDay": 351,
     "timeWeek": 368,
@@ -157,7 +155,7 @@
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -331,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "39.50%",
+    "uptime": "39.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.50%",
-    "uptimeMonth": "39.50%",
-    "uptimeYear": "39.50%",
+    "uptimeWeek": "39.43%",
+    "uptimeMonth": "39.43%",
+    "uptimeYear": "39.43%",
     "time": 3740,
     "timeDay": 3546,
     "timeWeek": 3740,
     "timeMonth": 3740,
     "timeYear": 3740,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 983
     }
@@ -364,7 +362,7 @@
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -459,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -590,7 +588,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
@@ -649,7 +647,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 284,
+      "2022-11-30": 292,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1311
