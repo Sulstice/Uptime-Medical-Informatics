@@ -34,7 +34,7 @@
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -128,9 +128,9 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "up",
+    "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "97.93%",
@@ -140,6 +140,7 @@
     "timeMonth": 569,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2022-12-03": 1,
       "2022-12-02": 22,
       "2022-12-01": 19,
       "2022-11-30": 91,
@@ -163,7 +164,7 @@
     "timeMonth": 1023,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -304,18 +305,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcga-data.nci.nih.gov.ico",
     "slug": "the-cancer-genome-atlas",
     "status": "down",
-    "uptime": "93.44%",
-    "uptimeDay": "56.28%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "93.44%",
+    "uptime": "93.22%",
+    "uptimeDay": "54.77%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "93.22%",
     "time": 713,
     "timeDay": 947,
     "timeWeek": 713,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-12-03": 630
+      "2022-12-03": 651
     }
   },
   {
@@ -342,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "18.43%",
+    "uptime": "18.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.43%",
-    "uptimeMonth": "18.43%",
-    "uptimeYear": "18.43%",
+    "uptimeWeek": "18.39%",
+    "uptimeMonth": "18.39%",
+    "uptimeYear": "18.39%",
     "time": 3722,
     "timeDay": 4561,
     "timeWeek": 3722,
     "timeMonth": 3722,
     "timeYear": 3722,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -378,7 +379,7 @@
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -476,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -610,7 +611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -672,7 +673,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 1080,
+      "2022-12-03": 1102,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -741,19 +742,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/genome.ucsc.edu.ico",
     "slug": "the-encyclopedia-of-dna-elements",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 162,
     "timeWeek": 646,
     "timeMonth": 646,
     "timeYear": 646,
-    "dailyMinutesDown": {
-      "2022-12-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Human Protein Atlas",
