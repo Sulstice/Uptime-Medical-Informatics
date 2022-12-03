@@ -34,7 +34,7 @@
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -129,13 +129,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "97.86%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.93%",
     "time": 569,
-    "timeDay": 426,
+    "timeDay": 324,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
@@ -163,7 +163,7 @@
     "timeMonth": 1023,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -304,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcga-data.nci.nih.gov.ico",
     "slug": "the-cancer-genome-atlas",
     "status": "down",
-    "uptime": "96.53%",
-    "uptimeDay": "77.64%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
+    "uptime": "93.50%",
+    "uptimeDay": "56.76%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "93.50%",
     "time": 713,
     "timeDay": 947,
     "timeWeek": 713,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-12-03": 322
+      "2022-12-03": 623
     }
   },
   {
@@ -342,18 +342,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "19.04%",
+    "uptime": "18.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.04%",
-    "uptimeMonth": "19.04%",
-    "uptimeYear": "19.04%",
+    "uptimeWeek": "18.44%",
+    "uptimeMonth": "18.44%",
+    "uptimeYear": "18.44%",
     "time": 3722,
     "timeDay": 4561,
     "timeWeek": 3722,
     "timeMonth": 3722,
     "timeYear": 3722,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -378,7 +378,7 @@
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -476,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -610,7 +610,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -672,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 772,
+      "2022-12-03": 1073,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -740,9 +740,9 @@
     "url": "http://genome.ucsc.edu/ENCODE/",
     "icon": "https://icons.duckduckgo.com/ip3/genome.ucsc.edu.ico",
     "slug": "the-encyclopedia-of-dna-elements",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -751,7 +751,9 @@
     "timeWeek": 730,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-03": 0
+    }
   },
   {
     "name": "The Human Protein Atlas",
@@ -777,19 +779,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1280,
     "timeDay": 1322,
     "timeWeek": 1280,
     "timeMonth": 1280,
     "timeYear": 1280,
-    "dailyMinutesDown": {
-      "2022-12-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy",
