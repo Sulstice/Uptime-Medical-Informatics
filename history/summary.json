@@ -34,7 +34,7 @@
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -129,18 +129,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
     "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "97.74%",
+    "uptime": "97.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 569,
     "timeDay": 426,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-12-03": 8,
       "2022-12-02": 22,
       "2022-12-01": 19,
       "2022-11-30": 91,
@@ -164,7 +163,7 @@
     "timeMonth": 1023,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -305,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcga-data.nci.nih.gov.ico",
     "slug": "the-cancer-genome-atlas",
     "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "86.94%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "uptime": "96.67%",
+    "uptimeDay": "78.57%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
     "time": 713,
     "timeDay": 947,
     "timeWeek": 713,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-12-03": 188
+      "2022-12-03": 309
     }
   },
   {
@@ -343,18 +342,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "19.32%",
+    "uptime": "19.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.32%",
-    "uptimeMonth": "19.32%",
-    "uptimeYear": "19.32%",
+    "uptimeWeek": "19.07%",
+    "uptimeMonth": "19.07%",
+    "uptimeYear": "19.07%",
     "time": 3722,
     "timeDay": 4561,
     "timeWeek": 3722,
     "timeMonth": 3722,
     "timeYear": 3722,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -379,7 +378,7 @@
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -477,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 638,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -611,7 +610,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 639,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -673,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-03": 639,
+      "2022-12-03": 759,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -777,9 +776,9 @@
     "url": "http://www.isi.uu.nl/Research/Databases/DRIVE/",
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -788,7 +787,9 @@
     "timeWeek": 1297,
     "timeMonth": 1297,
     "timeYear": 1297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-03": 0
+    }
   },
   {
     "name": "El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy",
