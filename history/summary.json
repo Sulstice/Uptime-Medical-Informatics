@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.civm.duhs.duke.edu.ico",
     "slug": "center-for-invivo-microscopy",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1459,
     "timeDay": 1791,
     "timeWeek": 1616,
     "timeMonth": 1459,
     "timeYear": 1459,
-    "dailyMinutesDown": {
-      "2022-12-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Embrionic and Neonatal Mouse",
@@ -36,7 +34,7 @@
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -83,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -100,10 +98,10 @@
     "url": "http://www.cancerimagingarchive.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cancerimagingarchive.net.ico",
     "slug": "the-cancer-imaging-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 980,
@@ -111,7 +109,9 @@
     "timeWeek": 1062,
     "timeMonth": 980,
     "timeYear": 980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-06": 1
+    }
   },
   {
     "name": "Alzheimer’s Disease Neuroimaging Initiative",
@@ -174,7 +174,7 @@
     "timeMonth": 1036,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -321,11 +321,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcga-data.nci.nih.gov.ico",
     "slug": "the-cancer-genome-atlas",
     "status": "up",
-    "uptime": "93.57%",
+    "uptime": "93.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.69%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "93.58%",
     "time": 733,
     "timeDay": 323,
     "timeWeek": 763,
@@ -359,18 +359,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "13.57%",
+    "uptime": "13.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.57%",
-    "uptimeYear": "13.57%",
+    "uptimeMonth": "13.54%",
+    "uptimeYear": "13.54%",
     "time": 3762,
     "timeDay": 4201,
     "timeWeek": 3746,
     "timeMonth": 3762,
     "timeYear": 3762,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -398,7 +398,7 @@
     "timeMonth": 663,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -636,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -701,7 +701,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 192,
+      "2022-12-06": 223,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
