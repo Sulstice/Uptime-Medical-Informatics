@@ -34,7 +34,7 @@
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -177,7 +177,7 @@
     "timeMonth": 1077,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -326,11 +326,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcga-data.nci.nih.gov.ico",
     "slug": "the-cancer-genome-atlas",
     "status": "up",
-    "uptime": "95.00%",
+    "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.69%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "95.00%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "95.01%",
     "time": 824,
     "timeDay": 1290,
     "timeWeek": 970,
@@ -375,7 +375,7 @@
     "timeMonth": 3783,
     "timeYear": 3783,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -405,7 +405,7 @@
     "timeMonth": 1071,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -563,19 +563,19 @@
     "url": "http://www.bioimage.ucsb.edu/research/biosegmentation",
     "icon": "https://icons.duckduckgo.com/ip3/www.bioimage.ucsb.edu.ico",
     "slug": "the-ucsb-bio-segmentation-benchmark-dataset",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1780,
-    "timeDay": 599,
-    "timeWeek": 1344,
-    "timeMonth": 1780,
-    "timeYear": 1780,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1676,
+    "timeDay": 513,
+    "timeWeek": 1229,
+    "timeMonth": 1676,
+    "timeYear": 1676,
     "dailyMinutesDown": {
-      "2022-12-08": 0
+      "2022-12-08": 7
     }
   },
   {
@@ -649,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 1057,
+      "2022-12-08": 1064,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
