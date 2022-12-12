@@ -4,19 +4,19 @@
     "url": "http://www.civm.duhs.duke.edu/devatlas/",
     "icon": "https://icons.duckduckgo.com/ip3/www.civm.duhs.duke.edu.ico",
     "slug": "center-for-invivo-microscopy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1650,
-    "timeDay": 2531,
-    "timeWeek": 1868,
-    "timeMonth": 1650,
-    "timeYear": 1650,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1625,
+    "timeDay": 1979,
+    "timeWeek": 1809,
+    "timeMonth": 1625,
+    "timeYear": 1625,
     "dailyMinutesDown": {
-      "2022-12-12": 1
+      "2022-12-12": 8
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 483,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 483,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -191,7 +191,7 @@
     "timeMonth": 1073,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 483,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -393,7 +393,7 @@
     "timeMonth": 3567,
     "timeYear": 3567,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 484,
       "2022-12-11": 1428,
       "2022-12-10": 1432,
       "2022-12-09": 1440,
@@ -427,7 +427,7 @@
     "timeMonth": 969,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 484,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -534,7 +534,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-12": 475,
+      "2022-12-12": 484,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -679,7 +679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-12": 476,
+      "2022-12-12": 484,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -750,7 +750,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-12": 476,
+      "2022-12-12": 484,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
