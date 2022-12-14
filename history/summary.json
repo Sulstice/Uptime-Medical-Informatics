@@ -36,7 +36,7 @@
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -195,7 +195,7 @@
     "timeMonth": 1066,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -399,7 +399,7 @@
     "timeMonth": 3583,
     "timeYear": 3583,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1429,
       "2022-12-12": 1440,
       "2022-12-11": 1428,
@@ -435,7 +435,7 @@
     "timeMonth": 925,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -691,7 +691,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -764,7 +764,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-14": 881,
+      "2022-12-14": 896,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -879,19 +879,19 @@
     "url": "http://www.isi.uu.nl/Research/Databases/DRIVE/",
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 1324,
-    "timeDay": 1058,
-    "timeWeek": 1402,
-    "timeMonth": 1324,
-    "timeYear": 1324,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1317,
+    "timeDay": 1071,
+    "timeWeek": 1379,
+    "timeMonth": 1317,
+    "timeYear": 1317,
     "dailyMinutesDown": {
-      "2022-12-14": 101
+      "2022-12-14": 116
     }
   },
   {
