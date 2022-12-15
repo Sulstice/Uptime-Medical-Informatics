@@ -36,7 +36,7 @@
     "timeMonth": 390,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -197,7 +197,7 @@
     "timeMonth": 1067,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 3522,
     "timeYear": 3522,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1432,
       "2022-12-13": 1429,
       "2022-12-12": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 934,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -698,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 944,
+      "2022-12-15": 952,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -834,19 +834,19 @@
     "url": "https://library.ucsd.edu/dc/collection/bb5940732k",
     "icon": "https://icons.duckduckgo.com/ip3/library.ucsd.edu.ico",
     "slug": "the-cell-centered-database",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 564,
-    "timeDay": 520,
-    "timeWeek": 515,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 573,
+    "timeDay": 570,
+    "timeWeek": 538,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2022-12-15": 36
+      "2022-12-15": 43
     }
   },
   {
@@ -891,18 +891,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "down",
-    "uptime": "95.66%",
+    "uptime": "95.63%",
     "uptimeDay": "28.36%",
-    "uptimeWeek": "88.48%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "95.66%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
     "time": 1284,
     "timeDay": 1246,
     "timeWeek": 1264,
     "timeMonth": 1284,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2022-12-15": 677,
+      "2022-12-15": 685,
       "2022-12-14": 484
     }
   },
