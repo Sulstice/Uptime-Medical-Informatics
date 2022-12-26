@@ -1,7 +1,7 @@
 url: http://www.civm.duhs.duke.edu/devatlas/
-status: down
-code: 503
-responseTime: 3688
-lastUpdated: 2022-12-26T22:40:24.643Z
+status: up
+code: 200
+responseTime: 1617
+lastUpdated: 2022-12-26T22:47:57.483Z
 startTime: Sun Nov 27 2022 02:08:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
