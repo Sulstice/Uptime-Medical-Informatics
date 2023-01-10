@@ -40,7 +40,7 @@
     "timeMonth": 384,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-01-10": 1262,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1262,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -258,7 +258,7 @@
     "timeMonth": 1052,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -492,7 +492,7 @@
     "timeMonth": 4776,
     "timeYear": 4481,
     "dailyMinutesDown": {
-      "2023-01-10": 1254,
+      "2023-01-10": 1263,
       "2023-01-09": 1440,
       "2023-01-08": 1401,
       "2023-01-07": 1440,
@@ -555,7 +555,7 @@
     "timeMonth": 630,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -663,17 +663,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1605,
-    "timeDay": 1227,
-    "timeWeek": 1243,
-    "timeMonth": 1530,
-    "timeYear": 1605,
+    "time": 1596,
+    "timeDay": 1202,
+    "timeWeek": 1228,
+    "timeMonth": 1519,
+    "timeYear": 1596,
     "dailyMinutesDown": {}
   },
   {
@@ -693,7 +693,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -970,7 +970,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -1120,7 +1120,7 @@
     "uptime": "39.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.15%",
+    "uptimeMonth": "11.13%",
     "uptimeYear": "39.65%",
     "time": 1277,
     "timeDay": 0,
@@ -1128,7 +1128,7 @@
     "timeMonth": 1210,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-10": 1263,
+      "2023-01-10": 1272,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
