@@ -42,7 +42,7 @@
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 891,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 891,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -280,7 +280,7 @@
     "timeMonth": 1089,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 891,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -523,7 +523,7 @@
     "timeMonth": 5334,
     "timeYear": 4603,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1429,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -595,7 +595,7 @@
     "timeMonth": 639,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -674,19 +674,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 563,
-    "timeDay": 403,
-    "timeWeek": 571,
-    "timeMonth": 529,
-    "timeYear": 563,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
+    "time": 566,
+    "timeDay": 525,
+    "timeWeek": 593,
+    "timeMonth": 536,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2023-01-19": 1,
+      "2023-01-19": 8,
       "2022-12-30": 31
     }
   },
@@ -743,7 +743,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -929,7 +929,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -1038,7 +1038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -1205,7 +1205,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-19": 884,
+      "2023-01-19": 892,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
