@@ -42,7 +42,7 @@
     "timeMonth": 401,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-01-25": 536,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 536,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 1131,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-01-25": 536,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -541,7 +541,7 @@
     "timeMonth": 5646,
     "timeYear": 4696,
     "dailyMinutesDown": {
-      "2023-01-25": 536,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1432,
       "2023-01-22": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 660,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2023-01-25": 536,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -724,19 +724,19 @@
     "url": "http://www.histology-world.com/photoalbum/thumbnails.php?album=52",
     "icon": "https://icons.duckduckgo.com/ip3/www.histology-world.com.ico",
     "slug": "histology-photo-album",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 751,
-    "timeWeek": 690,
-    "timeMonth": 656,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 635,
+    "timeDay": 631,
+    "timeWeek": 668,
+    "timeMonth": 652,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 8
     }
   },
   {
@@ -774,7 +774,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 537,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -966,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 537,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1081,7 +1081,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 537,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1207,18 +1207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/genome.ucsc.edu.ico",
     "slug": "the-encyclopedia-of-dna-elements",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 515,
     "timeDay": 274,
     "timeWeek": 300,
     "timeMonth": 452,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2023-01-25": 37
+      "2023-01-25": 22
     }
   },
   {
@@ -1226,19 +1226,19 @@
     "url": "http://www.proteinatlas.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.proteinatlas.org.ico",
     "slug": "the-human-protein-atlas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1400,
-    "timeDay": 1041,
-    "timeWeek": 1551,
-    "timeMonth": 1550,
-    "timeYear": 1400,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1394,
+    "timeDay": 1042,
+    "timeWeek": 1494,
+    "timeMonth": 1535,
+    "timeYear": 1394,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 8
     }
   },
   {
@@ -1247,18 +1247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "down",
-    "uptime": "29.96%",
+    "uptime": "29.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.96%",
+    "uptimeYear": "29.95%",
     "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-25": 537,
+      "2023-01-25": 544,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
