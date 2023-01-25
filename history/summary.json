@@ -42,7 +42,7 @@
     "timeMonth": 401,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 536,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 536,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 1131,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 536,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -541,7 +541,7 @@
     "timeMonth": 5646,
     "timeYear": 4696,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 536,
       "2023-01-24": 1440,
       "2023-01-23": 1432,
       "2023-01-22": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 660,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 536,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -724,10 +724,10 @@
     "url": "http://www.histology-world.com/photoalbum/thumbnails.php?album=52",
     "icon": "https://icons.duckduckgo.com/ip3/www.histology-world.com.ico",
     "slug": "histology-photo-album",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
@@ -735,7 +735,9 @@
     "timeWeek": 690,
     "timeMonth": 656,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Slide Library of Virtual pathology, University of Leeds",
@@ -772,7 +774,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 537,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -964,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 537,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1079,7 +1081,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 537,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1204,19 +1206,19 @@
     "url": "http://genome.ucsc.edu/ENCODE/",
     "icon": "https://icons.duckduckgo.com/ip3/genome.ucsc.edu.ico",
     "slug": "the-encyclopedia-of-dna-elements",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 513,
-    "timeDay": 70,
-    "timeWeek": 253,
-    "timeMonth": 445,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 515,
+    "timeDay": 274,
+    "timeWeek": 300,
+    "timeMonth": 452,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2023-01-25": 23
+      "2023-01-25": 37
     }
   },
   {
@@ -1224,19 +1226,19 @@
     "url": "http://www.proteinatlas.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.proteinatlas.org.ico",
     "slug": "the-human-protein-atlas",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1400,
     "timeDay": 1041,
     "timeWeek": 1551,
     "timeMonth": 1550,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2023-01-25": 8
+      "2023-01-25": 1
     }
   },
   {
@@ -1256,7 +1258,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-25": 521,
+      "2023-01-25": 537,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
