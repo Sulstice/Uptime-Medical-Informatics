@@ -42,7 +42,7 @@
     "timeMonth": 401,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 1131,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -541,7 +541,7 @@
     "timeMonth": 5646,
     "timeYear": 4696,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1432,
       "2023-01-22": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 660,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -839,36 +839,40 @@
     "url": "http://hapshistology.wikifoundry.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hapshistology.wikifoundry.com.ico",
     "slug": "haps-histology-image-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 195,
     "timeWeek": 188,
     "timeMonth": 191,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "BDGP images from the FlyExpress database",
     "url": "www.flyexpress.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdgp-images-from-the-fly-express-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 394,
     "timeWeek": 296,
     "timeMonth": 282,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "The UCSB Bio-Segmentation Benchmark dataset",
@@ -916,10 +920,10 @@
     "url": "http://cmp.felk.cvut.cz/~borovji3/?page=dataset",
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1915,
@@ -927,17 +931,19 @@
     "timeWeek": 1906,
     "timeMonth": 2151,
     "timeYear": 1915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "ANHIR dataset",
     "url": "https://anhir.grand-challenge.org/",
     "icon": "https://icons.duckduckgo.com/ip3/anhir.grand-challenge.org.ico",
     "slug": "anhir-dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 958,
@@ -945,7 +951,9 @@
     "timeWeek": 787,
     "timeMonth": 816,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Genome RNAi dataset",
@@ -964,7 +972,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 457,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1079,7 +1087,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 458,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1241,18 +1249,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "down",
-    "uptime": "29.99%",
+    "uptime": "29.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.99%",
+    "uptimeYear": "29.98%",
     "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-25": 458,
+      "2023-01-25": 466,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
