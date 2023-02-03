@@ -43,7 +43,7 @@
     "timeMonth": 402,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 983,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 983,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -318,7 +318,7 @@
     "timeMonth": 1125,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 983,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -565,18 +565,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "5.03%",
+    "uptime": "5.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "30.07%",
     "uptimeMonth": "5.24%",
-    "uptimeYear": "5.03%",
+    "uptimeYear": "5.02%",
     "time": 4581,
     "timeDay": 3415,
     "timeWeek": 3528,
     "timeMonth": 4806,
     "timeYear": 4581,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -662,7 +662,7 @@
     "timeMonth": 641,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -824,7 +824,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1025,7 +1025,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1149,7 +1149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1333,7 +1333,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-03": 972,
+      "2023-02-03": 984,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1428,19 +1428,19 @@
     "url": "http://www.dermnet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dermnet.com.ico",
     "slug": "derm-net-skin-disease-atlas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 10266,
-    "timeWeek": 2758,
-    "timeMonth": 885,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 541,
+    "timeDay": 6890,
+    "timeWeek": 2467,
+    "timeMonth": 862,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2023-02-03": 0
+      "2023-02-03": 12
     }
   }
 ]
