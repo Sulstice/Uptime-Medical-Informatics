@@ -47,7 +47,7 @@
     "timeMonth": 383,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -330,7 +330,7 @@
     "timeMonth": 1117,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -592,7 +592,7 @@
     "timeMonth": 4703,
     "timeYear": 4570,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -682,7 +682,7 @@
     "timeMonth": 641,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -821,17 +821,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1460,
-    "timeDay": 1515,
-    "timeWeek": 1213,
-    "timeMonth": 1184,
-    "timeYear": 1460,
+    "time": 1457,
+    "timeDay": 1417,
+    "timeWeek": 1214,
+    "timeMonth": 1185,
+    "timeYear": 1457,
     "dailyMinutesDown": {}
   },
   {
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 994,
+      "2023-02-07": 1006,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1058,7 +1058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 995,
+      "2023-02-07": 1007,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 995,
+      "2023-02-07": 1007,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1345,18 +1345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proteinatlas.org.ico",
     "slug": "the-human-protein-atlas",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "86.70%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.81%",
     "time": 1412,
     "timeDay": 3382,
     "timeWeek": 1703,
     "timeMonth": 1403,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2023-02-07": 192
+      "2023-02-07": 204
     }
   },
   {
@@ -1376,7 +1376,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-07": 995,
+      "2023-02-07": 1007,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
