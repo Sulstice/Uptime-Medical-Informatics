@@ -47,7 +47,7 @@
     "timeMonth": 383,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-02-07": 821,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 821,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -330,7 +330,7 @@
     "timeMonth": 1117,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2023-02-07": 821,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -592,7 +592,7 @@
     "timeMonth": 4703,
     "timeYear": 4570,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -682,7 +682,7 @@
     "timeMonth": 641,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -780,10 +780,10 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 573,
@@ -792,6 +792,7 @@
     "timeMonth": 575,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2023-02-07": 1,
       "2023-02-06": 33,
       "2023-02-05": 16,
       "2022-12-30": 31
@@ -850,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1057,7 +1058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1185,7 +1186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1344,18 +1345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proteinatlas.org.ico",
     "slug": "the-human-protein-atlas",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.92%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.92%",
     "time": 1412,
     "timeDay": 3382,
     "timeWeek": 1703,
     "timeMonth": 1403,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2023-02-07": 19
+      "2023-02-07": 88
     }
   },
   {
@@ -1364,18 +1365,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "down",
-    "uptime": "24.50%",
+    "uptime": "24.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.50%",
+    "uptimeYear": "24.49%",
     "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-07": 822,
+      "2023-02-07": 891,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
