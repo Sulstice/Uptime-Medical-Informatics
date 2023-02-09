@@ -47,7 +47,7 @@
     "timeMonth": 401,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2023-02-09": 664,
+      "2023-02-09": 674,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 664,
+      "2023-02-09": 674,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -289,10 +289,10 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.09%",
     "time": 821,
@@ -301,6 +301,7 @@
     "timeMonth": 461,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2023-02-09": 1,
       "2023-01-17": 62,
       "2023-01-14": 242,
       "2022-12-28": 17,
@@ -334,7 +335,7 @@
     "timeMonth": 1121,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -598,7 +599,7 @@
     "timeMonth": 4716,
     "timeYear": 4559,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -690,7 +691,7 @@
     "timeMonth": 643,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -861,7 +862,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -1070,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -1152,19 +1153,19 @@
     "url": "http://www.chogenome.org/data.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.chogenome.org.ico",
     "slug": "chinese-hamster-ovary-cells-cho-dataset",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 507,
-    "timeWeek": 491,
-    "timeMonth": 458,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 470,
+    "timeDay": 397,
+    "timeWeek": 466,
+    "timeMonth": 453,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-02-09": 1
+      "2023-02-09": 10
     }
   },
   {
@@ -1202,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -1364,7 +1365,7 @@
     "slug": "the-human-protein-atlas",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "85.96%",
+    "uptimeDay": "86.65%",
     "uptimeWeek": "85.08%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "98.60%",
@@ -1395,7 +1396,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-09": 665,
+      "2023-02-09": 675,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
