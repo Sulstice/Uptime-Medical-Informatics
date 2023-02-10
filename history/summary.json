@@ -47,7 +47,7 @@
     "timeMonth": 413,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 660,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 660,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -248,7 +248,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "99.06%",
     "time": 1358,
@@ -337,7 +337,7 @@
     "timeMonth": 1136,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -602,7 +602,7 @@
     "timeMonth": 4678,
     "timeYear": 4553,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -695,7 +695,7 @@
     "timeMonth": 653,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -867,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1011,9 +1011,9 @@
     "slug": "pap-smear-database",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.84%",
     "time": 1142,
     "timeDay": 1069,
@@ -1021,7 +1021,7 @@
     "timeMonth": 1159,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-02-10": 170
+      "2023-02-10": 177
     }
   },
   {
@@ -1079,7 +1079,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1210,7 +1210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1404,7 +1404,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-10": 653,
+      "2023-02-10": 661,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1470,17 +1470,17 @@
     "url": "http://www.gastrointestinalatlas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gastrointestinalatlas.com.ico",
     "slug": "el-salvador-atlas-of-gastrointestinal-video-endoscopy-images-and-videos-of-hi-res-of-studies-taken-from-gastrointestinal-video-endoscopy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 316,
-    "timeWeek": 292,
-    "timeMonth": 403,
-    "timeYear": 350,
+    "time": 349,
+    "timeDay": 317,
+    "timeWeek": 295,
+    "timeMonth": 401,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
