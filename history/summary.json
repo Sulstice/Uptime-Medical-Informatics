@@ -47,7 +47,7 @@
     "timeMonth": 413,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -337,7 +337,7 @@
     "timeMonth": 1136,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -474,19 +474,19 @@
     "url": "https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#e88604ec5c654f60a897fa77906f88a6",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1352,
-    "timeDay": 4017,
-    "timeWeek": 2992,
-    "timeMonth": 1689,
-    "timeYear": 1352,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.91%",
+    "time": 1346,
+    "timeDay": 3428,
+    "timeWeek": 2883,
+    "timeMonth": 1674,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2023-02-10": 1,
+      "2023-02-10": 8,
       "2023-01-10": 26,
       "2022-12-04": 0,
       "2022-12-03": 59
@@ -603,7 +603,7 @@
     "timeMonth": 4656,
     "timeYear": 4553,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -696,7 +696,7 @@
     "timeMonth": 653,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -868,7 +868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1011,18 +1011,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "67.26%",
-    "uptimeWeek": "95.32%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.56%",
+    "uptimeDay": "66.75%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.56%",
     "time": 1142,
     "timeDay": 1069,
     "timeWeek": 1075,
     "timeMonth": 1159,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-02-10": 471
+      "2023-02-10": 479
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1211,7 +1211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 962,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1405,7 +1405,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-10": 955,
+      "2023-02-10": 963,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
