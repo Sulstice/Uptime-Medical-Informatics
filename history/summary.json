@@ -47,7 +47,7 @@
     "timeMonth": 422,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -343,7 +343,7 @@
     "timeMonth": 1135,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -611,7 +611,7 @@
     "timeMonth": 4490,
     "timeYear": 4547,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -707,7 +707,7 @@
     "timeMonth": 662,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -882,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -1030,8 +1030,8 @@
     "status": "down",
     "uptime": "95.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.43%",
-    "uptimeMonth": "88.13%",
+    "uptimeWeek": "48.36%",
+    "uptimeMonth": "88.12%",
     "uptimeYear": "95.42%",
     "time": 1133,
     "timeDay": 1037,
@@ -1039,7 +1039,7 @@
     "timeMonth": 1145,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 956
@@ -1102,7 +1102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -1236,7 +1236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -1433,7 +1433,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-02-13": 1362,
+      "2023-02-13": 1369,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -1502,17 +1502,17 @@
     "url": "http://www.gastrointestinalatlas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gastrointestinalatlas.com.ico",
     "slug": "el-salvador-atlas-of-gastrointestinal-video-endoscopy-images-and-videos-of-hi-res-of-studies-taken-from-gastrointestinal-video-endoscopy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 283,
-    "timeWeek": 293,
-    "timeMonth": 397,
-    "timeYear": 347,
+    "time": 346,
+    "timeDay": 294,
+    "timeWeek": 295,
+    "timeMonth": 395,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
