@@ -49,7 +49,7 @@
     "timeMonth": 309,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-04-18": 886,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 886,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -494,7 +494,7 @@
     "timeMonth": 1242,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-04-18": 886,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -714,7 +714,7 @@
     "timeMonth": 370,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2023-04-18": 886,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -898,7 +898,7 @@
     "timeMonth": 3372,
     "timeYear": 4127,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1058,7 +1058,7 @@
     "timeMonth": 825,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 894,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1300,7 +1300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1451,18 +1451,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hapshistology.wikifoundry.com.ico",
     "slug": "haps-histology-image-database",
     "status": "down",
-    "uptime": "65.79%",
+    "uptime": "65.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.79%",
+    "uptimeYear": "65.78%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1573,7 +1573,7 @@
     "timeMonth": 957,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1703,7 +1703,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1901,7 +1901,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -2071,19 +2071,19 @@
     "url": "http://fcon_1000.projects.nitrc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/fcon_1000.projects.nitrc.org.ico",
     "slug": "1000-functional-connectomes-project",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 182,
-    "timeWeek": 282,
-    "timeMonth": 287,
+    "timeDay": 186,
+    "timeWeek": 270,
+    "timeMonth": 284,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-04-18": 1
+      "2023-04-18": 8
     }
   },
   {
@@ -2169,7 +2169,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-04-18": 887,
+      "2023-04-18": 895,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
