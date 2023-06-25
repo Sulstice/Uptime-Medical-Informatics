@@ -1,7 +1,7 @@
 url: http://marathon.csee.usf.edu/Mammography/Database.html
-status: down
-code: 503
-responseTime: 666
-lastUpdated: 2023-06-25T07:07:32.229Z
+status: up
+code: 200
+responseTime: 1276
+lastUpdated: 2023-06-25T07:18:27.089Z
 startTime: Sun Nov 27 2022 02:08:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
