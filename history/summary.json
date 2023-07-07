@@ -51,7 +51,7 @@
     "timeMonth": 313,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-07-07": 1171,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -318,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 1171,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -583,7 +583,7 @@
     "timeMonth": 0,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2023-07-07": 1171,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -697,7 +697,7 @@
     "timeMonth": 1202,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2023-07-07": 1171,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -997,7 +997,7 @@
     "timeMonth": 373,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1265,7 +1265,7 @@
     "timeMonth": 2876,
     "timeYear": 3763,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1500,7 +1500,7 @@
     "timeMonth": 885,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1179,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1831,7 +1831,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -2073,7 +2073,7 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -2266,7 +2266,7 @@
     "timeMonth": 985,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -2448,7 +2448,7 @@
     "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.95%",
+    "uptimeMonth": "84.96%",
     "uptimeYear": "97.83%",
     "time": 898,
     "timeDay": 646,
@@ -2482,7 +2482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -2760,7 +2760,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -3112,7 +3112,7 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-07-07": 1172,
+      "2023-07-07": 1180,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -3325,16 +3325,16 @@
     "url": "http://www.gastrointestinalatlas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gastrointestinalatlas.com.ico",
     "slug": "el-salvador-atlas-of-gastrointestinal-video-endoscopy-images-and-videos-of-hi-res-of-studies-taken-from-gastrointestinal-video-endoscopy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 279,
-    "timeWeek": 262,
-    "timeMonth": 284,
+    "timeDay": 262,
+    "timeWeek": 260,
+    "timeMonth": 283,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
