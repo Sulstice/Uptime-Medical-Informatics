@@ -1,7 +1,7 @@
 url: http://www.virtualpathology.leeds.ac.uk/
-status: down
-code: 500
-responseTime: 983
-lastUpdated: 2023-09-12T08:02:00.189Z
+status: up
+code: 200
+responseTime: 963
+lastUpdated: 2023-09-12T08:12:35.971Z
 startTime: 2022-11-27T02:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
