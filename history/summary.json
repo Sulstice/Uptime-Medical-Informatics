@@ -58,7 +58,7 @@
     "timeMonth": 273,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-01-25": 652,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 1594,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -1182,7 +1182,7 @@
     "timeMonth": 2016,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -1566,7 +1566,7 @@
     "timeMonth": 0,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -1667,7 +1667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "down",
-    "uptime": "19.45%",
+    "uptime": "19.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1678,7 +1678,7 @@
     "timeMonth": 396,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 670,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -2161,7 +2161,7 @@
     "timeMonth": 3091,
     "timeYear": 3378,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -2533,7 +2533,7 @@
     "timeMonth": 615,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-01-25": 653,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -3000,17 +3000,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1303,
-    "timeDay": 1293,
-    "timeWeek": 1154,
+    "time": 1304,
+    "timeDay": 1391,
+    "timeWeek": 1208,
     "timeMonth": 1188,
-    "timeYear": 1261,
+    "timeYear": 1262,
     "dailyMinutesDown": {}
   },
   {
@@ -3030,7 +3030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 654,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -3414,7 +3414,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-01-25": 654,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -4038,7 +4038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 654,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -4515,7 +4515,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 654,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -5011,7 +5011,7 @@
     "timeMonth": 0,
     "timeYear": 2174,
     "dailyMinutesDown": {
-      "2024-01-25": 654,
+      "2024-01-25": 671,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
