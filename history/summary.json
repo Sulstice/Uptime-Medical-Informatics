@@ -57,7 +57,7 @@
     "timeMonth": 316,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -469,7 +469,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1185,7 +1185,7 @@
     "timeMonth": 1934,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1569,7 +1569,7 @@
     "timeMonth": 0,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1687,7 +1687,7 @@
     "timeMonth": 408,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-01-31": 169,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -2168,7 +2168,7 @@
     "uptime": "4.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "5.67%",
+    "uptimeMonth": "5.65%",
     "uptimeYear": "4.38%",
     "time": 3591,
     "timeDay": 3586,
@@ -2176,7 +2176,7 @@
     "timeMonth": 3739,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -2549,7 +2549,7 @@
     "timeMonth": 618,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -3019,17 +3019,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1298,
-    "timeDay": 1204,
-    "timeWeek": 1112,
-    "timeMonth": 1157,
-    "timeYear": 1261,
+    "timeDay": 1161,
+    "timeWeek": 1100,
+    "timeMonth": 1153,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   },
   {
@@ -3049,7 +3049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -3433,7 +3433,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 177,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -3821,7 +3821,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
     "status": "up",
-    "uptime": "64.54%",
+    "uptime": "64.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -4063,7 +4063,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 178,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -4540,7 +4540,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 178,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -5037,7 +5037,7 @@
     "timeMonth": 0,
     "timeYear": 2174,
     "dailyMinutesDown": {
-      "2024-01-31": 170,
+      "2024-01-31": 178,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
