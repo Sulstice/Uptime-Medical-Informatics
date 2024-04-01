@@ -53,7 +53,7 @@
     "timeMonth": 306,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-04-01": 922,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 922,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 1606,
     "dailyMinutesDown": {
-      "2024-04-01": 922,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -1219,7 +1219,7 @@
     "timeMonth": 2192,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-04-01": 922,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -1592,7 +1592,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "75.95%",
+    "uptime": "75.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1603,7 +1603,7 @@
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-01": 922,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -1779,7 +1779,7 @@
     "timeMonth": 630,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-04-01": 923,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -2281,7 +2281,7 @@
     "timeMonth": 3776,
     "timeYear": 3398,
     "dailyMinutesDown": {
-      "2024-04-01": 923,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -2653,7 +2653,7 @@
     "timeMonth": 623,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-04-01": 923,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -3141,17 +3141,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1253,
-    "timeDay": 1241,
-    "timeWeek": 1107,
-    "timeMonth": 1142,
-    "timeYear": 1226,
+    "timeDay": 1167,
+    "timeWeek": 1091,
+    "timeMonth": 1137,
+    "timeYear": 1225,
     "dailyMinutesDown": {}
   },
   {
@@ -3171,7 +3171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 923,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -3555,7 +3555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 923,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -3975,7 +3975,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "71.82%",
+    "uptimeYear": "71.83%",
     "time": 2337,
     "timeDay": 11956,
     "timeWeek": 4609,
@@ -4162,7 +4162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 924,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -4639,7 +4639,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 924,
+      "2024-04-01": 930,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -5136,7 +5136,7 @@
     "timeMonth": 1412,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2024-04-01": 924,
+      "2024-04-01": 931,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
