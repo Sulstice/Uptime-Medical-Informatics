@@ -53,7 +53,7 @@
     "timeMonth": 326,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 288,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 288,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -861,7 +861,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "37.48%",
+    "uptime": "37.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 288,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 2378,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 288,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -1608,7 +1608,7 @@
     "timeMonth": 0,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 288,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -1741,17 +1741,17 @@
     "url": "http://peipa.essex.ac.uk/info/mias.html",
     "icon": "https://icons.duckduckgo.com/ip3/peipa.essex.ac.uk.ico",
     "slug": "the-mammographic-image-analysis-society-mias-mini-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1239,
-    "timeDay": 2510,
-    "timeWeek": 1443,
-    "timeMonth": 1169,
-    "timeYear": 1246,
+    "time": 1245,
+    "timeDay": 2924,
+    "timeWeek": 1745,
+    "timeMonth": 1248,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   },
   {
@@ -1789,7 +1789,7 @@
     "timeMonth": 928,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-04-06": 273,
+      "2024-04-06": 289,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -2290,7 +2290,7 @@
     "timeMonth": 3451,
     "timeYear": 3389,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 289,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1416,
@@ -2662,7 +2662,7 @@
     "timeMonth": 633,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 289,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -3179,7 +3179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 289,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -3563,7 +3563,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 289,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -4165,7 +4165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 290,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -4642,7 +4642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 290,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -5139,7 +5139,7 @@
     "timeMonth": 1517,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2024-04-06": 274,
+      "2024-04-06": 290,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
