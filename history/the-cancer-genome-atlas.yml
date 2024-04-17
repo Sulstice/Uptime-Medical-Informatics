@@ -1,7 +1,7 @@
 url: https://tcga-data.nci.nih.gov/tcga/
-status: down
-code: 503
-responseTime: 610
-lastUpdated: 2024-04-17T01:17:04.078Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2024-04-17T01:39:35.323Z
 startTime: 2022-11-27T02:08:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
