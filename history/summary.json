@@ -55,7 +55,7 @@
     "timeMonth": 317,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -1276,7 +1276,7 @@
     "timeMonth": 2428,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -1649,18 +1649,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "65.34%",
+    "uptime": "65.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.01%",
+    "uptimeYear": "45.98%",
     "time": 1155,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -1916,7 +1916,7 @@
     "timeMonth": 821,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -2414,7 +2414,7 @@
     "timeMonth": 4523,
     "timeYear": 3560,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -2791,7 +2791,7 @@
     "timeMonth": 646,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 710,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -3183,17 +3183,17 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.32%",
     "time": 1651,
     "timeDay": 3156,
     "timeWeek": 1560,
     "timeMonth": 1716,
     "timeYear": 1720,
     "dailyMinutesDown": {
-      "2024-06-20": 41,
+      "2024-06-20": 33,
       "2024-06-19": 18,
       "2024-06-17": 33,
       "2024-06-15": 44,
@@ -3250,7 +3250,7 @@
       "2024-02-01": 101,
       "2024-01-26": 908,
       "2024-01-21": 58,
-      "2024-01-20": 95
+      "2024-01-20": 129
     }
   },
   {
@@ -3318,7 +3318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-20": 579,
+      "2024-06-20": 711,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -3702,7 +3702,7 @@
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-06-20": 580,
+      "2024-06-20": 711,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -4074,10 +4074,10 @@
     "url": "www.flyexpress.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdgp-images-from-the-fly-express-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
@@ -4085,7 +4085,9 @@
     "timeWeek": 217,
     "timeMonth": 255,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 2
+    }
   },
   {
     "name": "The UCSB Bio-Segmentation Benchmark dataset",
@@ -4123,11 +4125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
     "status": "up",
-    "uptime": "73.19%",
+    "uptime": "73.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.67%",
+    "uptimeYear": "93.70%",
     "time": 2899,
     "timeDay": 3613,
     "timeWeek": 8648,
@@ -4233,7 +4235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-20": 580,
+      "2024-06-20": 711,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -4710,7 +4712,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-20": 580,
+      "2024-06-20": 711,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -5204,7 +5206,7 @@
     "timeMonth": 1506,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2024-06-20": 580,
+      "2024-06-20": 711,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
