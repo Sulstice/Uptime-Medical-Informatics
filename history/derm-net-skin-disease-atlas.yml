@@ -1,7 +1,7 @@
 url: http://www.dermnet.com/
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2024-06-27T23:03:36.108Z
+status: down
+code: 504
+responseTime: 20181
+lastUpdated: 2024-06-28T06:03:16.034Z
 startTime: 2022-11-27T02:09:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
