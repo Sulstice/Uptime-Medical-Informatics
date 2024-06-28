@@ -11,7 +11,7 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.73%",
     "time": 1218,
-    "timeDay": 759,
+    "timeDay": 699,
     "timeWeek": 1165,
     "timeMonth": 1028,
     "timeYear": 1295,
@@ -55,7 +55,7 @@
     "timeMonth": 329,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 321,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1278,7 +1278,7 @@
     "timeMonth": 3145,
     "timeYear": 1736,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1655,14 +1655,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.87%",
+    "uptimeYear": "43.86%",
     "time": 1160,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1926,7 +1926,7 @@
     "timeMonth": 641,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-06-28": 285,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -2424,7 +2424,7 @@
     "timeMonth": 4844,
     "timeYear": 3612,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1432,
@@ -2801,7 +2801,7 @@
     "timeMonth": 647,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -3193,9 +3193,9 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "99.32%",
     "time": 1614,
     "timeDay": 619,
@@ -3203,7 +3203,6 @@
     "timeMonth": 2043,
     "timeYear": 1726,
     "dailyMinutesDown": {
-      "2024-06-28": 8,
       "2024-06-26": 57,
       "2024-06-20": 33,
       "2024-06-19": 18,
@@ -3262,7 +3261,7 @@
       "2024-02-01": 101,
       "2024-01-26": 908,
       "2024-01-21": 58,
-      "2024-01-20": 73
+      "2024-01-20": 95
     }
   },
   {
@@ -3301,17 +3300,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1069,
-    "timeWeek": 1406,
-    "timeMonth": 1195,
-    "timeYear": 1216,
+    "time": 1236,
+    "timeDay": 1052,
+    "timeWeek": 1359,
+    "timeMonth": 1191,
+    "timeYear": 1215,
     "dailyMinutesDown": {}
   },
   {
@@ -3331,7 +3330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -3715,7 +3714,7 @@
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 322,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -4140,7 +4139,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.81%",
+    "uptimeYear": "95.82%",
     "time": 2986,
     "timeDay": 7644,
     "timeWeek": 7936,
@@ -4238,7 +4237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 323,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -4715,7 +4714,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 323,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -5208,7 +5207,7 @@
     "timeMonth": 1577,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2024-06-28": 286,
+      "2024-06-28": 323,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
