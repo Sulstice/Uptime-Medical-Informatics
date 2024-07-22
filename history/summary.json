@@ -55,7 +55,7 @@
     "timeMonth": 313,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -1255,7 +1255,7 @@
     "timeDay": 0,
     "timeWeek": 4477,
     "timeMonth": 1903,
-    "timeYear": 654,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2024-07-21": 52,
       "2024-06-27": 263,
@@ -1280,7 +1280,7 @@
     "timeMonth": 2628,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -1662,9 +1662,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1354,
+    "timeYear": 1357,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -1912,7 +1912,7 @@
     "timeDay": 0,
     "timeWeek": 655,
     "timeMonth": 677,
-    "timeYear": 1215,
+    "timeYear": 1217,
     "dailyMinutesDown": {}
   },
   {
@@ -1930,7 +1930,7 @@
     "timeDay": 0,
     "timeWeek": 208,
     "timeMonth": 271,
-    "timeYear": 305,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -1939,7 +1939,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "down",
-    "uptime": "13.67%",
+    "uptime": "13.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1948,9 +1948,9 @@
     "timeDay": 0,
     "timeWeek": 386,
     "timeMonth": 545,
-    "timeYear": 635,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1405,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -2332,7 +2332,7 @@
     "timeDay": 0,
     "timeWeek": 475,
     "timeMonth": 548,
-    "timeYear": 536,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -2443,9 +2443,9 @@
     "timeDay": 0,
     "timeWeek": 3518,
     "timeMonth": 3824,
-    "timeYear": 3626,
+    "timeYear": 3629,
     "dailyMinutesDown": {
-      "2024-07-22": 1384,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -2820,9 +2820,9 @@
     "timeDay": 0,
     "timeWeek": 633,
     "timeMonth": 655,
-    "timeYear": 668,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -3212,19 +3212,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.96%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.48%",
-    "time": 1788,
-    "timeDay": 9076,
-    "timeWeek": 4293,
-    "timeMonth": 3016,
+    "time": 1789,
+    "timeDay": 8267,
+    "timeWeek": 4225,
+    "timeMonth": 3003,
     "timeYear": 1886,
     "dailyMinutesDown": {
-      "2024-07-22": 1,
+      "2024-07-22": 21,
       "2024-07-17": 27,
       "2024-07-16": 79,
       "2024-07-15": 28,
@@ -3358,7 +3358,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -3742,7 +3742,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -4124,7 +4124,7 @@
     "timeDay": 0,
     "timeWeek": 177,
     "timeMonth": 263,
-    "timeYear": 275,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -4142,7 +4142,7 @@
     "timeDay": 0,
     "timeWeek": 859,
     "timeMonth": 898,
-    "timeYear": 1200,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2024-06-10": 52,
       "2024-05-29": 78,
@@ -4172,7 +4172,7 @@
     "timeDay": 0,
     "timeWeek": 6024,
     "timeMonth": 6713,
-    "timeYear": 4373,
+    "timeYear": 4377,
     "dailyMinutesDown": {
       "2024-07-16": 33,
       "2024-07-15": 30,
@@ -4233,7 +4233,7 @@
     "timeDay": 0,
     "timeWeek": 1472,
     "timeMonth": 1366,
-    "timeYear": 1081,
+    "timeYear": 1082,
     "dailyMinutesDown": {}
   },
   {
@@ -4253,7 +4253,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -4731,7 +4731,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -5113,7 +5113,7 @@
     "timeDay": 0,
     "timeWeek": 799,
     "timeMonth": 874,
-    "timeYear": 707,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2024-04-13": 35,
       "2023-12-16": 21
@@ -5152,7 +5152,7 @@
     "timeDay": 8132,
     "timeWeek": 3130,
     "timeMonth": 1592,
-    "timeYear": 773,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2024-07-22": 16,
       "2024-07-20": 104,
@@ -5179,7 +5179,7 @@
     "timeDay": 0,
     "timeWeek": 491,
     "timeMonth": 562,
-    "timeYear": 677,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-03-22": 16,
       "2024-02-19": 18,
@@ -5226,7 +5226,7 @@
     "timeMonth": 1771,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2024-07-22": 1385,
+      "2024-07-22": 1406,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -5644,7 +5644,7 @@
     "timeDay": 0,
     "timeWeek": 265,
     "timeMonth": 2271,
-    "timeYear": 1249,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2024-07-21": 312,
       "2024-07-20": 1440,
