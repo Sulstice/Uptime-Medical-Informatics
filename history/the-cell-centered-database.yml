@@ -1,7 +1,7 @@
 url: https://library.ucsd.edu/dc/collection/bb5940732k
-status: up
-code: 200
-responseTime: 387
-lastUpdated: 2024-07-22T09:11:55.319Z
+status: down
+code: 500
+responseTime: 10751
+lastUpdated: 2024-07-22T14:25:05.430Z
 startTime: 2022-11-27T02:09:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
