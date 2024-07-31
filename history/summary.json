@@ -55,7 +55,7 @@
     "timeMonth": 325,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -860,7 +860,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "30.38%",
+    "uptime": "30.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -871,7 +871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -1278,7 +1278,7 @@
     "timeMonth": 2334,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -1651,18 +1651,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "61.00%",
+    "uptime": "60.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.08%",
+    "uptimeYear": "35.03%",
     "time": 1169,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1386,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -1957,7 +1957,7 @@
     "timeMonth": 574,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-07-31": 62,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -2451,7 +2451,7 @@
     "timeMonth": 3601,
     "timeYear": 3665,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -2828,7 +2828,7 @@
     "timeMonth": 671,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -3218,10 +3218,10 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.49%",
     "time": 1791,
@@ -3230,6 +3230,7 @@
     "timeMonth": 2453,
     "timeYear": 1866,
     "dailyMinutesDown": {
+      "2024-07-31": 1,
       "2024-07-30": 19,
       "2024-07-26": 25,
       "2024-07-23": 42,
@@ -3296,8 +3297,7 @@
       "2024-03-05": 134,
       "2024-02-26": 18,
       "2024-02-23": 18,
-      "2024-02-19": 45,
-      "2024-02-12": 37
+      "2024-02-19": 45
     }
   },
   {
@@ -3365,7 +3365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 319,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -3749,7 +3749,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 320,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -4172,7 +4172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mde-lab.aegean.gr.ico",
     "slug": "pap-smear-database",
     "status": "up",
-    "uptime": "74.96%",
+    "uptime": "74.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
@@ -4262,7 +4262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 320,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -4740,7 +4740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 320,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -5237,7 +5237,7 @@
     "timeMonth": 0,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2024-07-31": 63,
+      "2024-07-31": 320,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
