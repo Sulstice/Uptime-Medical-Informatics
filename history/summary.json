@@ -51,7 +51,7 @@
     "timeMonth": 341,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -866,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1274,7 +1274,7 @@
     "timeMonth": 2563,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1651,14 +1651,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.77%",
+    "uptimeYear": "25.74%",
     "time": 1200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1976,7 +1976,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "down",
-    "uptime": "12.78%",
+    "uptime": "12.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1987,7 +1987,7 @@
     "timeMonth": 1068,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -2481,7 +2481,7 @@
     "timeMonth": 3477,
     "timeYear": 3685,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -2858,7 +2858,7 @@
     "timeMonth": 721,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 167,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -3248,18 +3248,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.19%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.18%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "99.47%",
-    "time": 1862,
+    "uptimeYear": "99.48%",
+    "time": 1863,
     "timeDay": 500,
     "timeWeek": 1595,
     "timeMonth": 2308,
     "timeYear": 1946,
     "dailyMinutesDown": {
+      "2024-09-03": 1,
       "2024-09-01": 182,
       "2024-08-24": 68,
       "2024-08-13": 30,
@@ -3325,7 +3326,7 @@
       "2024-04-02": 16,
       "2024-03-31": 86,
       "2024-03-30": 77,
-      "2024-03-29": 56
+      "2024-03-29": 31
     }
   },
   {
@@ -3394,7 +3395,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 168,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -3778,7 +3779,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 168,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -4292,7 +4293,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 168,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -4669,7 +4670,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.32%",
+    "uptimeYear": "91.34%",
     "time": 517,
     "timeDay": 364,
     "timeWeek": 546,
@@ -4745,7 +4746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 168,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -5244,7 +5245,7 @@
     "timeMonth": 0,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2024-09-03": 21,
+      "2024-09-03": 168,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
