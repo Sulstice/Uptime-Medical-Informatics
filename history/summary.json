@@ -51,7 +51,7 @@
     "timeMonth": 336,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 602,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 602,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -866,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1274,7 +1274,7 @@
     "timeMonth": 2672,
     "timeYear": 1952,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1647,18 +1647,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "57.41%",
+    "uptime": "57.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.59%",
+    "uptimeYear": "24.56%",
     "time": 1203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1991,7 +1991,7 @@
     "timeMonth": 1098,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -2486,7 +2486,7 @@
     "timeMonth": 3203,
     "timeYear": 3691,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -2863,7 +2863,7 @@
     "timeMonth": 712,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -3253,18 +3253,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.17%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.16%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.48%",
     "time": 1876,
-    "timeDay": 624,
-    "timeWeek": 2999,
-    "timeMonth": 2573,
-    "timeYear": 1990,
+    "timeDay": 647,
+    "timeWeek": 2954,
+    "timeMonth": 2581,
+    "timeYear": 1989,
     "dailyMinutesDown": {
+      "2024-09-07": 2,
       "2024-09-05": 18,
       "2024-09-04": 53,
       "2024-09-03": 32,
@@ -3331,7 +3332,7 @@
       "2024-04-06": 53,
       "2024-04-05": 61,
       "2024-04-02": 16,
-      "2024-03-31": 86
+      "2024-03-31": 70
     }
   },
   {
@@ -3379,7 +3380,7 @@
     "time": 1222,
     "timeDay": 928,
     "timeWeek": 1181,
-    "timeMonth": 1178,
+    "timeMonth": 1183,
     "timeYear": 1225,
     "dailyMinutesDown": {}
   },
@@ -3400,7 +3401,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -3784,7 +3785,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-09-07": 444,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -4298,7 +4299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 445,
+      "2024-09-07": 603,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -4675,7 +4676,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.49%",
+    "uptimeYear": "92.52%",
     "time": 517,
     "timeDay": 374,
     "timeWeek": 517,
@@ -4747,7 +4748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 445,
+      "2024-09-07": 604,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -5246,7 +5247,7 @@
     "timeMonth": 0,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2024-09-07": 445,
+      "2024-09-07": 604,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
