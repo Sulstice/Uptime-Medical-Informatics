@@ -47,7 +47,7 @@
     "timeMonth": 320,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1277,7 +1277,7 @@
     "timeMonth": 2340,
     "timeYear": 2034,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1661,7 +1661,7 @@
     "timeMonth": 0,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2016,7 +2016,7 @@
     "timeMonth": 1083,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-09-30": 443,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2510,7 +2510,7 @@
     "timeMonth": 3136,
     "timeYear": 3686,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2887,7 +2887,7 @@
     "timeMonth": 666,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3279,7 +3279,7 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "96.63%",
+    "uptimeDay": "97.15%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.42%",
@@ -3390,17 +3390,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1217,
-    "timeDay": 970,
-    "timeWeek": 1021,
-    "timeMonth": 1118,
-    "timeYear": 1222,
+    "time": 1216,
+    "timeDay": 929,
+    "timeWeek": 1006,
+    "timeMonth": 1110,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -3420,7 +3420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3804,7 +3804,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 451,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -4316,7 +4316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 452,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -4693,7 +4693,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 515,
     "timeDay": 503,
     "timeWeek": 469,
@@ -4742,7 +4742,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 444,
+      "2024-09-30": 452,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -5243,7 +5243,7 @@
     "timeMonth": 1275,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-09-30": 445,
+      "2024-09-30": 452,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
