@@ -1,7 +1,7 @@
 url: http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2024-10-02T23:39:10.036Z
+status: down
+code: 502
+responseTime: 359
+lastUpdated: 2024-10-03T00:04:58.295Z
 startTime: 2022-11-27T02:09:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
