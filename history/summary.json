@@ -46,7 +46,7 @@
     "timeMonth": 307,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-10-05": 585,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 585,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 585,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1234,13 +1234,13 @@
     "slug": "the-open-access-series-of-imaging-studies",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "94.51%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "93.41%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.74%",
     "time": 817,
     "timeDay": 748,
-    "timeWeek": 1097,
+    "timeWeek": 1103,
     "timeMonth": 967,
     "timeYear": 905,
     "dailyMinutesDown": {
@@ -1279,7 +1279,7 @@
     "timeMonth": 2593,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2024-10-05": 585,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1663,7 +1663,7 @@
     "timeMonth": 0,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2024-10-05": 585,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -2023,7 +2023,7 @@
     "timeMonth": 942,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -2516,7 +2516,7 @@
     "timeMonth": 3095,
     "timeYear": 3692,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 592,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -2893,7 +2893,7 @@
     "timeMonth": 655,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3265,19 +3265,19 @@
     "url": "https://digitalpathologyassociation.org/whole-slide-imaging-repository",
     "icon": "https://icons.duckduckgo.com/ip3/digitalpathologyassociation.org.ico",
     "slug": "dp-as-whole-slide-imaging-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 632,
-    "timeWeek": 486,
-    "timeMonth": 606,
-    "timeYear": 628,
+    "time": 585,
+    "timeDay": 455,
+    "timeWeek": 460,
+    "timeMonth": 595,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-10-05": 1
+      "2024-10-05": 6
     }
   },
   {
@@ -3424,7 +3424,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3808,7 +3808,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -4321,7 +4321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -4744,7 +4744,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -5245,7 +5245,7 @@
     "timeMonth": 1275,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-10-05": 586,
+      "2024-10-05": 593,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
