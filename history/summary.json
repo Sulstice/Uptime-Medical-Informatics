@@ -46,7 +46,7 @@
     "timeMonth": 304,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1280,7 +1280,7 @@
     "timeMonth": 2586,
     "timeYear": 2071,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1653,7 +1653,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "54.63%",
+    "uptime": "54.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1664,7 +1664,7 @@
     "timeMonth": 0,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -2028,7 +2028,7 @@
     "timeMonth": 839,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-10-10": 705,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -2519,7 +2519,7 @@
     "timeMonth": 3060,
     "timeYear": 3702,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -2896,7 +2896,7 @@
     "timeMonth": 654,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 713,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -3295,7 +3295,7 @@
     "time": 2067,
     "timeDay": 699,
     "timeWeek": 637,
-    "timeMonth": 2073,
+    "timeMonth": 2081,
     "timeYear": 2155,
     "dailyMinutesDown": {
       "2024-10-08": 41,
@@ -3395,17 +3395,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1215,
-    "timeDay": 1471,
-    "timeWeek": 1027,
-    "timeMonth": 1069,
-    "timeYear": 1218,
+    "timeDay": 1207,
+    "timeWeek": 1018,
+    "timeMonth": 1065,
+    "timeYear": 1217,
     "dailyMinutesDown": {}
   },
   {
@@ -3425,7 +3425,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 714,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -3809,7 +3809,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 714,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -4323,7 +4323,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 714,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -4746,7 +4746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 714,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -5247,7 +5247,7 @@
     "timeMonth": 1275,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-10-10": 706,
+      "2024-10-10": 714,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
