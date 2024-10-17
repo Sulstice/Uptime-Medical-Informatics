@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1231,
-    "timeDay": 481,
-    "timeWeek": 872,
-    "timeMonth": 963,
-    "timeYear": 1185,
+    "time": 1229,
+    "timeDay": 772,
+    "timeWeek": 735,
+    "timeMonth": 966,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2024-07-08": 15,
       "2024-06-26": 21,
@@ -40,12 +40,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 332,
-    "timeDay": 202,
-    "timeWeek": 317,
-    "timeMonth": 297,
-    "timeYear": 316,
+    "timeDay": 115,
+    "timeWeek": 245,
+    "timeMonth": 294,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 22,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -408,8 +409,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -424,9 +424,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 345,
-    "timeDay": 432,
-    "timeWeek": 328,
-    "timeMonth": 349,
+    "timeDay": 340,
+    "timeWeek": 354,
+    "timeMonth": 347,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2024-07-20": 32,
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 22,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -813,8 +814,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -828,11 +828,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.79%",
-    "time": 1062,
-    "timeDay": 981,
-    "timeWeek": 1062,
-    "timeMonth": 1236,
-    "timeYear": 1118,
+    "time": 1063,
+    "timeDay": 1206,
+    "timeWeek": 1072,
+    "timeMonth": 1238,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2024-09-22": 630,
       "2024-09-21": 46,
@@ -853,13 +853,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1032,
+    "time": 1070,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 22,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -1222,8 +1223,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -1233,17 +1233,16 @@
     "slug": "the-open-access-series-of-imaging-studies",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.74%",
-    "time": 799,
-    "timeDay": 798,
-    "timeWeek": 741,
-    "timeMonth": 902,
-    "timeYear": 893,
+    "time": 800,
+    "timeDay": 845,
+    "timeWeek": 764,
+    "timeMonth": 904,
+    "timeYear": 894,
     "dailyMinutesDown": {
-      "2024-10-16": 8,
       "2024-10-08": 17,
       "2024-10-05": 17,
       "2024-10-04": 616,
@@ -1275,12 +1274,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1846,
-    "timeDay": 791,
-    "timeWeek": 1480,
-    "timeMonth": 2562,
+    "timeDay": 1274,
+    "timeWeek": 1514,
+    "timeMonth": 2578,
     "timeYear": 2076,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 22,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -1643,8 +1643,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -1653,18 +1652,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "54.12%",
+    "uptime": "54.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.96%",
-    "time": 1246,
+    "uptimeYear": "13.93%",
+    "time": 1249,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1358,
+    "timeYear": 1370,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 22,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -1992,11 +1992,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1121,
-    "timeDay": 616,
-    "timeWeek": 759,
-    "timeMonth": 651,
-    "timeYear": 1140,
+    "time": 1120,
+    "timeDay": 448,
+    "timeWeek": 606,
+    "timeMonth": 652,
+    "timeYear": 1139,
     "dailyMinutesDown": {}
   },
   {
@@ -2010,10 +2010,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 284,
-    "timeWeek": 311,
-    "timeMonth": 241,
+    "time": 300,
+    "timeDay": 163,
+    "timeWeek": 253,
+    "timeMonth": 239,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -2029,12 +2029,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 646,
-    "timeDay": 960,
-    "timeWeek": 549,
-    "timeMonth": 446,
+    "timeDay": 367,
+    "timeWeek": 543,
+    "timeMonth": 439,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -2397,8 +2398,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -2412,10 +2412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 382,
-    "timeWeek": 551,
-    "timeMonth": 525,
+    "time": 539,
+    "timeDay": 458,
+    "timeWeek": 497,
+    "timeMonth": 527,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -2431,9 +2431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 305,
-    "timeWeek": 408,
-    "timeMonth": 411,
+    "timeDay": 386,
+    "timeWeek": 395,
+    "timeMonth": 413,
     "timeYear": 424,
     "dailyMinutesDown": {}
   },
@@ -2466,17 +2466,16 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 806,
-    "timeDay": 305,
-    "timeWeek": 453,
+    "time": 805,
+    "timeDay": 296,
+    "timeWeek": 373,
     "timeMonth": 500,
-    "timeYear": 773,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-10-16": 31,
       "2024-06-12": 21,
       "2024-04-17": 23,
-      "2024-01-10": 101,
-      "2023-10-18": 25
+      "2024-01-10": 101
     }
   },
   {
@@ -2491,9 +2490,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 511,
-    "timeDay": 568,
-    "timeWeek": 518,
-    "timeMonth": 583,
+    "timeDay": 605,
+    "timeWeek": 539,
+    "timeMonth": 543,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2024-09-12": 92,
@@ -2518,13 +2517,14 @@
     "uptimeWeek": "0.09%",
     "uptimeMonth": "1.40%",
     "uptimeYear": "2.59%",
-    "time": 3577,
-    "timeDay": 2439,
-    "timeWeek": 7258,
-    "timeMonth": 4338,
+    "time": 3579,
+    "timeDay": 2616,
+    "timeWeek": 7207,
+    "timeMonth": 4321,
     "timeYear": 3793,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -2880,8 +2880,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -2896,12 +2895,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 686,
-    "timeDay": 649,
-    "timeWeek": 678,
+    "timeDay": 499,
+    "timeWeek": 635,
     "timeMonth": 656,
-    "timeYear": 670,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -3264,8 +3264,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -3279,11 +3278,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 696,
-    "timeWeek": 524,
-    "timeMonth": 578,
-    "timeYear": 631,
+    "time": 583,
+    "timeDay": 562,
+    "timeWeek": 568,
+    "timeMonth": 565,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -3295,12 +3294,12 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.30%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "99.41%",
     "time": 2069,
-    "timeDay": 723,
-    "timeWeek": 663,
-    "timeMonth": 1958,
+    "timeDay": 364,
+    "timeWeek": 636,
+    "timeMonth": 1843,
     "timeYear": 2139,
     "dailyMinutesDown": {
       "2024-10-08": 41,
@@ -3375,11 +3374,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 851,
-    "timeDay": 952,
-    "timeWeek": 1171,
-    "timeMonth": 1077,
-    "timeYear": 882,
+    "time": 852,
+    "timeDay": 1173,
+    "timeWeek": 1129,
+    "timeMonth": 1083,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2024-08-14": 301,
       "2024-07-06": 34,
@@ -3406,9 +3405,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1213,
-    "timeDay": 839,
-    "timeWeek": 1048,
-    "timeMonth": 1047,
+    "timeDay": 755,
+    "timeWeek": 959,
+    "timeMonth": 1041,
     "timeYear": 1215,
     "dailyMinutesDown": {}
   },
@@ -3429,7 +3428,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -3792,8 +3792,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -3813,7 +3812,8 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-10-16": 1260,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -4176,8 +4176,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -4192,10 +4191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 139,
-    "timeWeek": 225,
-    "timeMonth": 204,
-    "timeYear": 266,
+    "timeDay": 135,
+    "timeWeek": 166,
+    "timeMonth": 202,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2024-07-25": 21
     }
@@ -4211,10 +4210,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.83%",
-    "time": 1248,
-    "timeDay": 890,
-    "timeWeek": 1417,
-    "timeMonth": 1464,
+    "time": 1247,
+    "timeDay": 867,
+    "timeWeek": 1394,
+    "timeMonth": 1454,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-10-06": 304,
@@ -4242,11 +4241,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.74%",
-    "time": 5528,
-    "timeDay": 5810,
-    "timeWeek": 7319,
-    "timeMonth": 9968,
-    "timeYear": 6613,
+    "time": 5567,
+    "timeDay": 8280,
+    "timeWeek": 7812,
+    "timeMonth": 9943,
+    "timeYear": 6662,
     "dailyMinutesDown": {
       "2024-10-16": 41,
       "2024-10-01": 41,
@@ -4274,10 +4273,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1741,
-    "timeDay": 1736,
-    "timeWeek": 1740,
-    "timeMonth": 1866,
+    "time": 1742,
+    "timeDay": 1554,
+    "timeWeek": 1669,
+    "timeMonth": 1868,
     "timeYear": 1739,
     "dailyMinutesDown": {
       "2024-05-23": 37,
@@ -4305,8 +4304,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1039,
-    "timeDay": 716,
-    "timeWeek": 893,
+    "timeDay": 697,
+    "timeWeek": 864,
     "timeMonth": 872,
     "timeYear": 1163,
     "dailyMinutesDown": {}
@@ -4328,7 +4327,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-16": 1261,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -4691,8 +4691,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -4707,9 +4706,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 513,
-    "timeDay": 464,
-    "timeWeek": 520,
-    "timeMonth": 485,
+    "timeDay": 452,
+    "timeWeek": 489,
+    "timeMonth": 491,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2024-07-11": 53,
@@ -4751,7 +4750,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-16": 1261,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -5114,8 +5114,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -5130,10 +5129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 735,
-    "timeDay": 736,
-    "timeWeek": 834,
+    "timeDay": 611,
+    "timeWeek": 808,
     "timeMonth": 859,
-    "timeYear": 753,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2024-09-16": 16,
       "2024-04-13": 35,
@@ -5152,9 +5151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 366,
-    "timeWeek": 327,
-    "timeMonth": 307,
+    "timeDay": 269,
+    "timeWeek": 310,
+    "timeMonth": 311,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-07-30": 21
@@ -5172,9 +5171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 888,
-    "timeDay": 671,
-    "timeWeek": 623,
-    "timeMonth": 702,
+    "timeDay": 639,
+    "timeWeek": 620,
+    "timeMonth": 696,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-08-28": 107,
@@ -5202,9 +5201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 748,
-    "timeDay": 874,
-    "timeWeek": 741,
-    "timeMonth": 1089,
+    "timeDay": 549,
+    "timeWeek": 722,
+    "timeMonth": 1084,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2024-09-12": 19,
@@ -5225,11 +5224,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1397,
-    "timeDay": 1440,
-    "timeWeek": 1828,
-    "timeMonth": 1670,
-    "timeYear": 1482,
+    "time": 1398,
+    "timeDay": 1386,
+    "timeWeek": 1720,
+    "timeMonth": 1672,
+    "timeYear": 1483,
     "dailyMinutesDown": {
       "2024-07-19": 61,
       "2024-01-23": 23
@@ -5249,10 +5248,11 @@
     "time": 1532,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1275,
+    "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-10-16": 1261,
+      "2024-10-17": 23,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -5615,8 +5615,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -5631,10 +5630,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 634,
-    "timeWeek": 529,
+    "timeDay": 525,
+    "timeWeek": 543,
     "timeMonth": 479,
-    "timeYear": 417,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -5666,10 +5665,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.53%",
-    "time": 1029,
-    "timeDay": 182,
-    "timeWeek": 251,
-    "timeMonth": 255,
+    "time": 1028,
+    "timeDay": 137,
+    "timeWeek": 210,
+    "timeMonth": 234,
     "timeYear": 1255,
     "dailyMinutesDown": {
       "2024-07-21": 312,
