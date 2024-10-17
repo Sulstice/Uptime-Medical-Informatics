@@ -45,7 +45,7 @@
     "timeMonth": 294,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 179,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 179,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -859,7 +859,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 179,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1280,7 +1280,7 @@
     "timeMonth": 2578,
     "timeYear": 2076,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1664,7 +1664,7 @@
     "timeMonth": 0,
     "timeYear": 1370,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -2035,7 +2035,7 @@
     "timeMonth": 439,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -2524,7 +2524,7 @@
     "timeMonth": 4321,
     "timeYear": 3793,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -2901,7 +2901,7 @@
     "timeMonth": 656,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-17": 160,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -3399,17 +3399,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1212,
-    "timeDay": 755,
-    "timeWeek": 959,
-    "timeMonth": 1041,
-    "timeYear": 1215,
+    "timeDay": 778,
+    "timeWeek": 941,
+    "timeMonth": 1034,
+    "timeYear": 1214,
     "dailyMinutesDown": {}
   },
   {
@@ -3429,7 +3429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-17": 161,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -3802,7 +3802,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hapshistology.wikifoundry.com.ico",
     "slug": "haps-histology-image-database",
     "status": "down",
-    "uptime": "13.61%",
+    "uptime": "13.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3813,7 +3813,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-10-17": 161,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -4328,7 +4328,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-17": 161,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -4751,7 +4751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-17": 161,
+      "2024-10-17": 180,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -5252,7 +5252,7 @@
     "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-10-17": 161,
+      "2024-10-17": 181,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
