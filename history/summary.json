@@ -43,7 +43,7 @@
     "timeMonth": 297,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 789,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 789,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -857,7 +857,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 789,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -1237,7 +1237,7 @@
     "uptimeYear": "99.70%",
     "time": 809,
     "timeDay": 766,
-    "timeWeek": 730,
+    "timeWeek": 725,
     "timeMonth": 884,
     "timeYear": 888,
     "dailyMinutesDown": {
@@ -1283,7 +1283,7 @@
     "timeMonth": 2511,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -1656,18 +1656,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "53.30%",
+    "uptime": "53.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.06%",
+    "uptimeYear": "11.04%",
     "time": 1272,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -2048,7 +2048,7 @@
     "timeMonth": 486,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -2536,7 +2536,7 @@
     "timeMonth": 4372,
     "timeYear": 3797,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -2913,7 +2913,7 @@
     "timeMonth": 659,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -3303,18 +3303,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.41%",
     "time": 2060,
-    "timeDay": 515,
-    "timeWeek": 2738,
-    "timeMonth": 1880,
+    "timeDay": 629,
+    "timeWeek": 2667,
+    "timeMonth": 1874,
     "timeYear": 2173,
     "dailyMinutesDown": {
+      "2024-10-27": 2,
       "2024-10-25": 30,
       "2024-10-23": 39,
       "2024-10-18": 76,
@@ -3372,7 +3373,7 @@
       "2024-06-17": 33,
       "2024-06-15": 44,
       "2024-06-14": 17,
-      "2024-06-13": 41
+      "2024-06-13": 23
     }
   },
   {
@@ -3440,7 +3441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -3824,7 +3825,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 790,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -4339,7 +4340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 791,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -4762,7 +4763,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 687,
+      "2024-10-27": 791,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -5263,7 +5264,7 @@
     "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-10-27": 688,
+      "2024-10-27": 791,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
