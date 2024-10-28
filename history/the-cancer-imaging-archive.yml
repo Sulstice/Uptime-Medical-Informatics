@@ -1,7 +1,7 @@
 url: http://www.cancerimagingarchive.net/
-status: up
-code: 200
-responseTime: 963
-lastUpdated: 2024-10-27T23:01:48.689Z
+status: down
+code: 500
+responseTime: 476
+lastUpdated: 2024-10-28T06:57:44.105Z
 startTime: 2022-11-27T02:08:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
