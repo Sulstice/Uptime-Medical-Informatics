@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 939,
     "timeMonth": 924,
-    "timeYear": 1192,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2024-07-08": 15,
       "2024-06-26": 21,
@@ -43,7 +43,7 @@
     "timeMonth": 305,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-11-01": 1114,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -847,7 +847,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "26.35%",
+    "uptime": "26.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -858,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -1286,7 +1286,7 @@
     "timeMonth": 2255,
     "timeYear": 2159,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -1663,14 +1663,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.61%",
+    "uptimeYear": "9.59%",
     "time": 1272,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -2056,7 +2056,7 @@
     "timeMonth": 489,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -2544,7 +2544,7 @@
     "timeMonth": 4299,
     "timeYear": 3727,
     "dailyMinutesDown": {
-      "2024-11-01": 1102,
+      "2024-11-01": 1200,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -2921,7 +2921,7 @@
     "timeMonth": 650,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-11-01": 1115,
+      "2024-11-01": 1212,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -3311,19 +3311,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.27%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 2083,
-    "timeDay": 754,
-    "timeWeek": 1595,
-    "timeMonth": 1658,
+    "timeDay": 736,
+    "timeWeek": 1628,
+    "timeMonth": 1651,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2024-11-01": 27,
+      "2024-11-01": 28,
       "2024-10-31": 24,
       "2024-10-28": 95,
       "2024-10-25": 30,
@@ -3379,8 +3379,7 @@
       "2024-06-28": 56,
       "2024-06-26": 57,
       "2024-06-20": 33,
-      "2024-06-19": 18,
-      "2024-06-17": 33
+      "2024-06-19": 18
     }
   },
   {
@@ -3448,7 +3447,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1116,
+      "2024-11-01": 1213,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -3832,7 +3831,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-11-01": 1116,
+      "2024-11-01": 1213,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -4265,7 +4264,7 @@
     "timeDay": 0,
     "timeWeek": 7028,
     "timeMonth": 9669,
-    "timeYear": 6939,
+    "timeYear": 6950,
     "dailyMinutesDown": {
       "2024-10-16": 41,
       "2024-10-01": 41,
@@ -4346,7 +4345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1116,
+      "2024-11-01": 1213,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -4769,7 +4768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1116,
+      "2024-11-01": 1213,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -5270,7 +5269,7 @@
     "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-11-01": 1116,
+      "2024-11-01": 1213,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
