@@ -1,7 +1,7 @@
 url: http://genome.ucsc.edu/ENCODE/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-10T19:45:00.834Z
+status: up
+code: 200
+responseTime: 5281
+lastUpdated: 2024-12-10T20:00:05.082Z
 startTime: 2022-11-27T02:09:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
