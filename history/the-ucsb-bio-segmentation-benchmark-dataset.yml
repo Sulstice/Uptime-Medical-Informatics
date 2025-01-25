@@ -1,7 +1,7 @@
 url: http://www.bioimage.ucsb.edu/research/biosegmentation
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-25T19:58:29.736Z
+status: up
+code: 200
+responseTime: 903
+lastUpdated: 2025-01-25T20:18:33.312Z
 startTime: 2022-11-27T02:09:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
