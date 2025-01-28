@@ -1,7 +1,7 @@
 url: https://ida.loni.usc.edu/services/Menu/IdaData.jsp?project=
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-28T00:54:47.202Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2025-01-28T01:30:53.832Z
 startTime: 2022-11-27T02:08:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
