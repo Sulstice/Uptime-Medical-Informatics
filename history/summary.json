@@ -4,18 +4,19 @@
     "url": "http://www.civm.duhs.duke.edu/devatlas/",
     "icon": "https://icons.duckduckgo.com/ip3/www.civm.duhs.duke.edu.ico",
     "slug": "center-for-invivo-microscopy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.91%",
-    "time": 1249,
-    "timeDay": 760,
-    "timeWeek": 2527,
-    "timeMonth": 1951,
-    "timeYear": 1257,
+    "time": 1287,
+    "timeDay": 11566,
+    "timeWeek": 3944,
+    "timeMonth": 2405,
+    "timeYear": 1308,
     "dailyMinutesDown": {
+      "2025-02-06": 3,
       "2025-02-04": 19,
       "2025-01-26": 32,
       "2025-01-18": 115,
@@ -46,7 +47,7 @@
     "timeMonth": 368,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1427,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -454,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1427,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -866,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1242,7 +1243,7 @@
     "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.33%",
+    "uptimeMonth": "77.37%",
     "uptimeYear": "95.68%",
     "time": 845,
     "timeDay": 674,
@@ -1333,7 +1334,7 @@
     "timeMonth": 2602,
     "timeYear": 2229,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1706,7 +1707,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "46.50%",
+    "uptime": "46.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1717,7 +1718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -2137,7 +2138,7 @@
     "timeMonth": 585,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -2519,7 +2520,7 @@
     "timeDay": 643,
     "timeWeek": 639,
     "timeMonth": 935,
-    "timeYear": 617,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -2621,7 +2622,7 @@
     "timeMonth": 2893,
     "timeYear": 3588,
     "dailyMinutesDown": {
-      "2025-02-06": 1403,
+      "2025-02-06": 1420,
       "2025-02-05": 1440,
       "2025-02-04": 1433,
       "2025-02-03": 1440,
@@ -3004,7 +3005,7 @@
     "timeMonth": 821,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -3396,17 +3397,16 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.03%",
     "time": 2315,
     "timeDay": 648,
     "timeWeek": 3061,
     "timeMonth": 1873,
     "timeYear": 2302,
     "dailyMinutesDown": {
-      "2025-02-06": 12,
       "2025-02-03": 95,
       "2025-02-02": 25,
       "2025-01-30": 35,
@@ -3460,7 +3460,7 @@
       "2024-10-07": 33,
       "2024-10-05": 31,
       "2024-10-03": 28,
-      "2024-10-01": 83
+      "2024-10-01": 140
     }
   },
   {
@@ -3526,7 +3526,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -3910,7 +3910,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1428,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -4380,7 +4380,7 @@
     "timeMonth": 1896,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1429,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -4508,7 +4508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1411,
+      "2025-02-06": 1429,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -4931,7 +4931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 1412,
+      "2025-02-06": 1429,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -5433,7 +5433,7 @@
     "timeMonth": 1136,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-02-06": 1412,
+      "2025-02-06": 1429,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
