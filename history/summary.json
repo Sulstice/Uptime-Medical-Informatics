@@ -48,7 +48,7 @@
     "timeMonth": 386,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -868,7 +868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1240,11 +1240,11 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "up",
+    "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.15%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "95.68%",
     "time": 847,
     "timeDay": 825,
@@ -1252,6 +1252,7 @@
     "timeMonth": 1567,
     "timeYear": 908,
     "dailyMinutesDown": {
+      "2025-02-12": 2,
       "2025-01-13": 1259,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1335,7 +1336,7 @@
     "timeMonth": 2539,
     "timeYear": 2242,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1719,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -2128,7 +2129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.cancerimagingarchive.net.ico",
     "slug": "ct-scans-for-colon-cancer",
     "status": "down",
-    "uptime": "10.21%",
+    "uptime": "10.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2139,7 +2140,7 @@
     "timeMonth": 1188,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2025-02-12": 1014,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -2623,7 +2624,7 @@
     "timeMonth": 2992,
     "timeYear": 3573,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -3006,7 +3007,7 @@
     "timeMonth": 705,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1045,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -3529,7 +3530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -3913,7 +3914,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -4370,7 +4371,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "89.22%",
+    "uptime": "89.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4381,7 +4382,7 @@
     "timeMonth": 1924,
     "timeYear": 1875,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -4487,18 +4488,16 @@
     "slug": "anhir-dataset",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1084,
     "timeDay": 721,
     "timeWeek": 793,
     "timeMonth": 947,
     "timeYear": 1136,
-    "dailyMinutesDown": {
-      "2025-02-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Genome RNAi dataset",
@@ -4517,7 +4516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1015,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -4940,7 +4939,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1016,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -5314,9 +5313,9 @@
     "slug": "allen-brain-atlas",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 768,
     "timeDay": 670,
@@ -5324,7 +5323,6 @@
     "timeMonth": 761,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-02-12": 9,
       "2024-12-07": 18,
       "2024-09-16": 16,
       "2024-04-13": 35
@@ -5443,7 +5441,7 @@
     "timeMonth": 1136,
     "timeYear": 1469,
     "dailyMinutesDown": {
-      "2025-02-12": 1016,
+      "2025-02-12": 1046,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
