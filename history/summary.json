@@ -48,7 +48,7 @@
     "timeMonth": 366,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-02-22": 670,
+      "2025-02-22": 679,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 670,
+      "2025-02-22": 679,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -869,7 +869,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 679,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1336,7 +1336,7 @@
     "timeMonth": 2451,
     "timeYear": 2270,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 679,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 679,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -2140,7 +2140,7 @@
     "timeMonth": 1183,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -2624,7 +2624,7 @@
     "timeMonth": 2929,
     "timeYear": 3521,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1428,
       "2025-02-20": 1440,
       "2025-02-19": 1429,
@@ -3007,7 +3007,7 @@
     "timeMonth": 686,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -3527,7 +3527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -3911,7 +3911,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4379,7 +4379,7 @@
     "timeMonth": 1870,
     "timeYear": 1880,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4493,19 +4493,19 @@
     "url": "https://anhir.grand-challenge.org/",
     "icon": "https://icons.duckduckgo.com/ip3/anhir.grand-challenge.org.ico",
     "slug": "anhir-dataset",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1086,
-    "timeDay": 805,
-    "timeWeek": 755,
-    "timeMonth": 760,
+    "time": 1087,
+    "timeDay": 896,
+    "timeWeek": 779,
+    "timeMonth": 769,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-02-22": 2
+      "2025-02-22": 9
     }
   },
   {
@@ -4525,7 +4525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 671,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4906,7 +4906,7 @@
     "time": 534,
     "timeDay": 492,
     "timeWeek": 482,
-    "timeMonth": 516,
+    "timeMonth": 519,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-01-08": 122,
@@ -4948,7 +4948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 672,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -5320,19 +5320,19 @@
     "url": "http://www.brain-map.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.brain-map.org.ico",
     "slug": "allen-brain-atlas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 771,
-    "timeDay": 452,
-    "timeWeek": 726,
-    "timeMonth": 743,
-    "timeYear": 792,
+    "time": 772,
+    "timeDay": 567,
+    "timeWeek": 740,
+    "timeMonth": 748,
+    "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-02-22": 2,
+      "2025-02-22": 9,
       "2024-12-07": 18,
       "2024-09-16": 16,
       "2024-04-13": 35
@@ -5419,7 +5419,7 @@
     "uptime": "98.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.96%",
+    "uptimeMonth": "68.94%",
     "uptimeYear": "97.39%",
     "time": 1855,
     "timeDay": 2127,
@@ -5427,7 +5427,7 @@
     "timeMonth": 2911,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2025-02-22": 672,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -5459,7 +5459,7 @@
     "timeMonth": 1129,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-02-22": 672,
+      "2025-02-22": 680,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
