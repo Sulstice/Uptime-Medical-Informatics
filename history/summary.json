@@ -48,7 +48,7 @@
     "timeMonth": 366,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-02-22": 679,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 679,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -869,7 +869,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 679,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1336,7 +1336,7 @@
     "timeMonth": 2451,
     "timeYear": 2270,
     "dailyMinutesDown": {
-      "2025-02-22": 679,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1709,7 +1709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "45.62%",
+    "uptime": "45.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 679,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -2140,7 +2140,7 @@
     "timeMonth": 1183,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 695,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -2624,7 +2624,7 @@
     "timeMonth": 2929,
     "timeYear": 3521,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1428,
       "2025-02-20": 1440,
       "2025-02-19": 1429,
@@ -3007,7 +3007,7 @@
     "timeMonth": 686,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -3397,18 +3397,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 2262,
-    "timeDay": 686,
-    "timeWeek": 601,
-    "timeMonth": 1715,
+    "timeDay": 662,
+    "timeWeek": 599,
+    "timeMonth": 1710,
     "timeYear": 2213,
     "dailyMinutesDown": {
+      "2025-02-22": 1,
       "2025-02-18": 19,
       "2025-02-17": 15,
       "2025-02-16": 54,
@@ -3461,8 +3462,7 @@
       "2024-11-15": 72,
       "2024-11-10": 33,
       "2024-11-09": 91,
-      "2024-11-01": 27,
-      "2024-10-31": 24
+      "2024-11-01": 27
     }
   },
   {
@@ -3527,7 +3527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -3911,7 +3911,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4379,7 +4379,7 @@
     "timeMonth": 1870,
     "timeYear": 1880,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4495,18 +4495,16 @@
     "slug": "anhir-dataset",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1087,
     "timeDay": 896,
     "timeWeek": 779,
     "timeMonth": 769,
     "timeYear": 1112,
-    "dailyMinutesDown": {
-      "2025-02-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Genome RNAi dataset",
@@ -4525,7 +4523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -4948,7 +4946,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -5322,9 +5320,9 @@
     "slug": "allen-brain-atlas",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 772,
     "timeDay": 567,
@@ -5332,7 +5330,6 @@
     "timeMonth": 748,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-02-22": 9,
       "2024-12-07": 18,
       "2024-09-16": 16,
       "2024-04-13": 35
@@ -5419,15 +5416,15 @@
     "uptime": "98.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.94%",
-    "uptimeYear": "97.39%",
+    "uptimeMonth": "68.90%",
+    "uptimeYear": "97.38%",
     "time": 1855,
     "timeDay": 2127,
     "timeWeek": 2703,
     "timeMonth": 2911,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -5459,7 +5456,7 @@
     "timeMonth": 1129,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-02-22": 680,
+      "2025-02-22": 696,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
