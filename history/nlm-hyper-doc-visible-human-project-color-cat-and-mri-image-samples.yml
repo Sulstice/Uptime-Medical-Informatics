@@ -1,7 +1,7 @@
 url: http://www.nlm.nih.gov/research/visible/visible_human.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-02T14:35:28.606Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2025-03-02T15:53:57.232Z
 startTime: 2022-11-27T02:08:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
