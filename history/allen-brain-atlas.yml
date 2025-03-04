@@ -1,7 +1,7 @@
 url: http://www.brain-map.org/
-status: up
-code: 200
-responseTime: 941
-lastUpdated: 2025-03-03T23:03:04.617Z
+status: down
+code: 403
+responseTime: 181
+lastUpdated: 2025-03-04T19:16:46.634Z
 startTime: 2022-11-27T02:09:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
