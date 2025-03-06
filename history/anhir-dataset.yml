@@ -1,7 +1,7 @@
 url: https://anhir.grand-challenge.org/
-status: up
-code: 200
-responseTime: 733
-lastUpdated: 2025-03-06T20:03:10.152Z
+status: down
+code: 403
+responseTime: 412
+lastUpdated: 2025-03-06T23:02:51.784Z
 startTime: 2022-11-27T02:09:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
