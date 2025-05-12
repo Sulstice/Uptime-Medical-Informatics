@@ -52,7 +52,7 @@
     "timeMonth": 522,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-05-12": 1058,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1058,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -882,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -1254,19 +1254,19 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "down",
+    "status": "up",
     "uptime": "98.13%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "95.65%",
-    "time": 928,
-    "timeDay": 837,
-    "timeWeek": 853,
-    "timeMonth": 1136,
+    "time": 929,
+    "timeDay": 882,
+    "timeWeek": 857,
+    "timeMonth": 1135,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2025-05-12": 47,
+      "2025-05-12": 61,
       "2025-05-06": 32,
       "2025-04-21": 16,
       "2025-04-13": 21,
@@ -1356,7 +1356,7 @@
     "timeMonth": 1062,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -1740,7 +1740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -2160,7 +2160,7 @@
     "timeMonth": 1688,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1075,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -2648,7 +2648,7 @@
     "timeMonth": 2999,
     "timeYear": 3426,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -3032,7 +3032,7 @@
     "timeMonth": 835,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -3404,10 +3404,10 @@
     "url": "https://digitalpathologyassociation.org/whole-slide-imaging-repository",
     "icon": "https://icons.duckduckgo.com/ip3/digitalpathologyassociation.org.ico",
     "slug": "dp-as-whole-slide-imaging-repository",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
@@ -3415,7 +3415,9 @@
     "timeWeek": 441,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 2
+    }
   },
   {
     "name": "ITK Analysis of Large Histology Datasets",
@@ -3557,7 +3559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -3941,7 +3943,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -4408,7 +4410,7 @@
     "timeMonth": 1747,
     "timeYear": 1934,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -4644,7 +4646,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1059,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -5067,7 +5069,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1060,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -5500,7 +5502,7 @@
     "uptime": "97.57%",
     "uptimeDay": "95.19%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "47.16%",
+    "uptimeMonth": "47.20%",
     "uptimeYear": "94.10%",
     "time": 990,
     "timeDay": 6228,
@@ -5634,7 +5636,7 @@
     "timeMonth": 1367,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2025-05-12": 1060,
+      "2025-05-12": 1076,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
