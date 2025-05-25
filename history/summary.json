@@ -52,7 +52,7 @@
     "timeMonth": 338,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -1264,7 +1264,7 @@
     "time": 934,
     "timeDay": 1420,
     "timeWeek": 1106,
-    "timeMonth": 983,
+    "timeMonth": 984,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2025-05-19": 17,
@@ -1361,7 +1361,7 @@
     "timeMonth": 954,
     "timeYear": 2146,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -1734,7 +1734,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "41.00%",
+    "uptime": "40.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1745,7 +1745,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -2165,7 +2165,7 @@
     "timeMonth": 2235,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -2653,7 +2653,7 @@
     "timeMonth": 2951,
     "timeYear": 3416,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -3037,7 +3037,7 @@
     "timeMonth": 832,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2025-05-25": 1017,
+      "2025-05-25": 1037,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -3411,9 +3411,9 @@
     "slug": "dp-as-whole-slide-imaging-repository",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 665,
     "timeDay": 702,
@@ -3421,7 +3421,7 @@
     "timeMonth": 599,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-05-25": 47,
+      "2025-05-25": 40,
       "2025-05-24": 1,
       "2025-05-13": 26
     }
@@ -3538,17 +3538,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1216,
-    "timeDay": 1159,
-    "timeWeek": 1137,
-    "timeMonth": 1184,
-    "timeYear": 1219,
+    "time": 1217,
+    "timeDay": 1252,
+    "timeWeek": 1181,
+    "timeMonth": 1196,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -3568,7 +3568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -3952,7 +3952,7 @@
     "timeMonth": 0,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -4420,7 +4420,7 @@
     "timeMonth": 1836,
     "timeYear": 1929,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -4666,7 +4666,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -5089,7 +5089,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -5522,7 +5522,7 @@
     "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.27%",
+    "uptimeMonth": "89.32%",
     "uptimeYear": "94.06%",
     "time": 1146,
     "timeDay": 588,
@@ -5659,7 +5659,7 @@
     "timeMonth": 1644,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-05-25": 1018,
+      "2025-05-25": 1038,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
