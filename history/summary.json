@@ -52,7 +52,7 @@
     "timeMonth": 344,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 34,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 34,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 34,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -1257,10 +1257,10 @@
     "url": "http://www.oasis-brains.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oasis-brains.org.ico",
     "slug": "the-open-access-series-of-imaging-studies",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "95.62%",
     "time": 918,
@@ -1269,6 +1269,7 @@
     "timeMonth": 946,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2025-06-11": 2,
       "2025-06-02": 16,
       "2025-05-26": 19,
       "2025-05-19": 17,
@@ -1365,7 +1366,7 @@
     "timeMonth": 233,
     "timeYear": 2017,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 34,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -1749,7 +1750,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 34,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -2169,7 +2170,7 @@
     "timeMonth": 4575,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -2657,7 +2658,7 @@
     "timeMonth": 2887,
     "timeYear": 3353,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -3041,7 +3042,7 @@
     "timeMonth": 695,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -3438,18 +3439,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.16%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "98.55%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.07%",
     "time": 2397,
-    "timeDay": 589,
-    "timeWeek": 1268,
-    "timeMonth": 1540,
+    "timeDay": 579,
+    "timeWeek": 1258,
+    "timeMonth": 1536,
     "timeYear": 2442,
     "dailyMinutesDown": {
+      "2025-06-11": 2,
       "2025-06-10": 15,
       "2025-06-09": 15,
       "2025-06-07": 82,
@@ -3508,8 +3510,7 @@
       "2025-01-23": 17,
       "2025-01-19": 54,
       "2025-01-13": 15,
-      "2025-01-11": 75,
-      "2025-01-10": 77
+      "2025-01-11": 75
     }
   },
   {
@@ -3577,7 +3578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 27,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -3953,7 +3954,7 @@
     "uptime": "11.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.55%",
+    "uptimeMonth": "39.57%",
     "uptimeYear": "3.46%",
     "time": 579,
     "timeDay": 455,
@@ -4417,7 +4418,7 @@
     "timeMonth": 1755,
     "timeYear": 1934,
     "dailyMinutesDown": {
-      "2025-06-11": 28,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -4680,7 +4681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 28,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -5103,7 +5104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 28,
+      "2025-06-11": 35,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -5676,7 +5677,7 @@
     "timeMonth": 1588,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2025-06-11": 28,
+      "2025-06-11": 36,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
