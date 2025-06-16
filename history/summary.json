@@ -52,7 +52,7 @@
     "timeMonth": 316,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-06-16": 479,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 479,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 479,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1266,7 +1266,7 @@
     "time": 923,
     "timeDay": 1213,
     "timeWeek": 1141,
-    "timeMonth": 1044,
+    "timeMonth": 1051,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2025-06-16": 39,
@@ -1367,7 +1367,7 @@
     "timeMonth": 231,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1751,7 +1751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -2171,7 +2171,7 @@
     "timeMonth": 4236,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 509,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -2658,7 +2658,7 @@
     "timeMonth": 2875,
     "timeYear": 3304,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 510,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -3042,7 +3042,7 @@
     "timeMonth": 698,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 510,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -3441,19 +3441,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "97.41%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "97.39%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "99.06%",
     "time": 2432,
-    "timeDay": 4054,
-    "timeWeek": 1903,
-    "timeMonth": 1686,
-    "timeYear": 2454,
+    "timeDay": 3874,
+    "timeWeek": 1918,
+    "timeMonth": 1683,
+    "timeYear": 2453,
     "dailyMinutesDown": {
-      "2025-06-16": 26,
+      "2025-06-16": 28,
       "2025-06-15": 90,
       "2025-06-13": 24,
       "2025-06-12": 40,
@@ -3510,8 +3510,7 @@
       "2025-02-10": 25,
       "2025-02-09": 35,
       "2025-02-08": 21,
-      "2025-02-03": 95,
-      "2025-02-02": 25
+      "2025-02-03": 95
     }
   },
   {
@@ -3579,7 +3578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 510,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -3955,8 +3954,8 @@
     "uptime": "11.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.02%",
-    "uptimeYear": "4.91%",
+    "uptimeMonth": "57.09%",
+    "uptimeYear": "4.92%",
     "time": 560,
     "timeDay": 495,
     "timeWeek": 468,
@@ -4405,7 +4404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "77.39%",
+    "uptime": "77.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4416,7 +4415,7 @@
     "timeMonth": 1741,
     "timeYear": 1935,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 510,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -4684,7 +4683,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 511,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -5107,7 +5106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 480,
+      "2025-06-16": 511,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -5673,7 +5672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isi.uu.nl.ico",
     "slug": "drive-digital-retinal-images-for-vessel-extraction",
     "status": "down",
-    "uptime": "1.91%",
+    "uptime": "1.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -5684,7 +5683,7 @@
     "timeMonth": 1491,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2025-06-16": 481,
+      "2025-06-16": 511,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
