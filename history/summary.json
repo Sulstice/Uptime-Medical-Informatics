@@ -52,7 +52,7 @@
     "timeMonth": 300,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-06-17": 676,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 676,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 676,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -1367,7 +1367,7 @@
     "timeMonth": 228,
     "timeYear": 1981,
     "dailyMinutesDown": {
-      "2025-06-17": 676,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -1740,7 +1740,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "40.00%",
+    "uptime": "39.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1751,7 +1751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 676,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -2171,7 +2171,7 @@
     "timeMonth": 4287,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -2658,7 +2658,7 @@
     "timeMonth": 2866,
     "timeYear": 3302,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -3042,7 +3042,7 @@
     "timeMonth": 695,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 713,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -3443,9 +3443,9 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.07%",
     "time": 2438,
     "timeDay": 990,
@@ -3453,7 +3453,7 @@
     "timeMonth": 1627,
     "timeYear": 2454,
     "dailyMinutesDown": {
-      "2025-06-17": 35,
+      "2025-06-17": 24,
       "2025-06-16": 58,
       "2025-06-15": 90,
       "2025-06-13": 24,
@@ -3510,7 +3510,8 @@
       "2025-02-13": 65,
       "2025-02-10": 25,
       "2025-02-09": 35,
-      "2025-02-08": 21
+      "2025-02-08": 21,
+      "2025-02-03": 24
     }
   },
   {
@@ -3548,17 +3549,17 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1203,
-    "timeDay": 872,
-    "timeWeek": 944,
-    "timeMonth": 1280,
-    "timeYear": 1234,
+    "timeDay": 882,
+    "timeWeek": 941,
+    "timeMonth": 1274,
+    "timeYear": 1233,
     "dailyMinutesDown": {}
   },
   {
@@ -3578,7 +3579,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 714,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -3954,8 +3955,8 @@
     "uptime": "12.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.76%",
-    "uptimeYear": "5.22%",
+    "uptimeMonth": "60.84%",
+    "uptimeYear": "5.23%",
     "time": 556,
     "timeDay": 497,
     "timeWeek": 486,
@@ -4414,7 +4415,7 @@
     "timeMonth": 1739,
     "timeYear": 1936,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 714,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -4683,7 +4684,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 714,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -5106,7 +5107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 677,
+      "2025-06-17": 714,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -5683,7 +5684,7 @@
     "timeMonth": 1462,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2025-06-17": 678,
+      "2025-06-17": 714,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
