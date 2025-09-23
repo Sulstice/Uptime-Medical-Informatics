@@ -48,7 +48,7 @@
     "timeMonth": 207,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 846,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 846,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 846,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -1365,7 +1365,7 @@
     "timeMonth": 403,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 846,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -1749,7 +1749,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 846,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -2169,7 +2169,7 @@
     "timeMonth": 1243,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2025-09-23": 838,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -2657,7 +2657,7 @@
     "timeMonth": 2729,
     "timeYear": 3119,
     "dailyMinutesDown": {
-      "2025-09-23": 839,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -3041,7 +3041,7 @@
     "timeMonth": 753,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-09-23": 839,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -3583,7 +3583,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 839,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -3967,7 +3967,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-09-23": 839,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -4333,19 +4333,19 @@
     "url": "http://www.bioimage.ucsb.edu/research/biosegmentation",
     "icon": "https://icons.duckduckgo.com/ip3/www.bioimage.ucsb.edu.ico",
     "slug": "the-ucsb-bio-segmentation-benchmark-dataset",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.65%",
     "time": 1378,
-    "timeDay": 1205,
-    "timeWeek": 1864,
-    "timeMonth": 1514,
-    "timeYear": 1456,
+    "timeDay": 1046,
+    "timeWeek": 1767,
+    "timeMonth": 1500,
+    "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-09-23": 3,
+      "2025-09-23": 9,
       "2025-09-19": 51,
       "2025-09-16": 18,
       "2025-08-10": 35,
@@ -4383,7 +4383,7 @@
     "uptimeYear": "94.47%",
     "time": 8758,
     "timeDay": 16193,
-    "timeWeek": 7093,
+    "timeWeek": 7625,
     "timeMonth": 6406,
     "timeYear": 8193,
     "dailyMinutesDown": {
@@ -4442,7 +4442,7 @@
     "timeMonth": 1704,
     "timeYear": 1920,
     "dailyMinutesDown": {
-      "2025-09-23": 840,
+      "2025-09-23": 847,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -4810,7 +4810,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 840,
+      "2025-09-23": 848,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -5256,7 +5256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 840,
+      "2025-09-23": 848,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -5838,7 +5838,7 @@
     "timeMonth": 1537,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-09-23": 841,
+      "2025-09-23": 848,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -6218,7 +6218,7 @@
     "uptimeYear": "100.00%",
     "time": 519,
     "timeDay": 440,
-    "timeWeek": 449,
+    "timeWeek": 464,
     "timeMonth": 482,
     "timeYear": 506,
     "dailyMinutesDown": {}
@@ -6247,16 +6247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dermnet.com.ico",
     "slug": "derm-net-skin-disease-atlas",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 494,
     "timeDay": 207,
     "timeWeek": 384,
     "timeMonth": 368,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 37
+    }
   }
 ]
