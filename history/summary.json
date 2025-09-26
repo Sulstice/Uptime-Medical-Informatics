@@ -48,7 +48,7 @@
     "timeMonth": 200,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-09-26": 24,
+      "2025-09-26": 136,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 24,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 24,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1265,7 +1265,7 @@
     "timeDay": 0,
     "timeWeek": 952,
     "timeMonth": 1349,
-    "timeYear": 922,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-08-16": 30,
       "2025-08-02": 33,
@@ -1362,7 +1362,7 @@
     "timeMonth": 398,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2025-09-26": 24,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1735,7 +1735,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "36.11%",
+    "uptime": "36.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1746,7 +1746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -2166,7 +2166,7 @@
     "timeMonth": 1557,
     "timeYear": 1378,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -2654,7 +2654,7 @@
     "timeMonth": 2695,
     "timeYear": 3115,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1427,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -3038,7 +3038,7 @@
     "timeMonth": 762,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -3581,7 +3581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -3965,7 +3965,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-09-26": 25,
+      "2025-09-26": 137,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -4331,10 +4331,10 @@
     "url": "http://www.bioimage.ucsb.edu/research/biosegmentation",
     "icon": "https://icons.duckduckgo.com/ip3/www.bioimage.ucsb.edu.ico",
     "slug": "the-ucsb-bio-segmentation-benchmark-dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.65%",
     "time": 1378,
@@ -4343,6 +4343,7 @@
     "timeMonth": 1485,
     "timeYear": 1451,
     "dailyMinutesDown": {
+      "2025-09-26": 1,
       "2025-09-19": 51,
       "2025-09-16": 18,
       "2025-08-10": 35,
@@ -4432,14 +4433,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.67%",
+    "uptimeYear": "14.64%",
     "time": 1869,
     "timeDay": 0,
     "timeWeek": 1672,
     "timeMonth": 1707,
     "timeYear": 1920,
     "dailyMinutesDown": {
-      "2025-09-26": 26,
+      "2025-09-26": 138,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -4810,7 +4811,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 26,
+      "2025-09-26": 138,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -5256,7 +5257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 26,
+      "2025-09-26": 138,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -5838,7 +5839,7 @@
     "timeMonth": 1537,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-09-26": 26,
+      "2025-09-26": 138,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
