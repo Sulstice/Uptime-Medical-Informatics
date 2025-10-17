@@ -48,7 +48,7 @@
     "timeMonth": 192,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-10-17": 25,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 25,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1357,7 +1357,7 @@
     "timeMonth": 396,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1730,7 +1730,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "35.39%",
+    "uptime": "35.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1741,7 +1741,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -2161,7 +2161,7 @@
     "timeMonth": 981,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -2648,7 +2648,7 @@
     "timeMonth": 2532,
     "timeYear": 2979,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1426,
       "2025-10-14": 1440,
@@ -3032,7 +3032,7 @@
     "timeMonth": 741,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 303,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -3437,18 +3437,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "95.63%",
     "uptimeYear": "98.49%",
-    "time": 2218,
-    "timeDay": 1107,
-    "timeWeek": 1698,
-    "timeMonth": 1571,
-    "timeYear": 2239,
+    "time": 2217,
+    "timeDay": 1122,
+    "timeWeek": 1684,
+    "timeMonth": 1572,
+    "timeYear": 2238,
     "dailyMinutesDown": {
+      "2025-10-17": 2,
       "2025-10-16": 15,
       "2025-10-15": 36,
       "2025-10-14": 56,
@@ -3508,8 +3509,7 @@
       "2025-06-13": 24,
       "2025-06-12": 40,
       "2025-06-11": 66,
-      "2025-06-10": 15,
-      "2025-06-09": 15
+      "2025-06-10": 15
     }
   },
   {
@@ -3555,7 +3555,7 @@
     "timeDay": 1371,
     "timeWeek": 1147,
     "timeMonth": 1217,
-    "timeYear": 1288,
+    "timeYear": 1289,
     "dailyMinutesDown": {}
   },
   {
@@ -3575,7 +3575,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -3959,7 +3959,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-10-17": 26,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -4423,18 +4423,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "68.39%",
+    "uptime": "68.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.91%",
+    "uptimeYear": "8.86%",
     "time": 1873,
     "timeDay": 2270,
     "timeWeek": 1695,
     "timeMonth": 1712,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2025-10-17": 27,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -4826,7 +4826,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 27,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -5272,7 +5272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 27,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -5855,7 +5855,7 @@
     "timeMonth": 1414,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-10-17": 27,
+      "2025-10-17": 304,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
