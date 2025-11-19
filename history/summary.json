@@ -49,7 +49,7 @@
     "timeMonth": 158,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-11-19": 779,
+      "2025-11-19": 1004,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 779,
+      "2025-11-19": 1004,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 779,
+      "2025-11-19": 1004,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1267,7 +1267,7 @@
     "timeDay": 891,
     "timeWeek": 573,
     "timeMonth": 671,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2025-08-16": 30,
       "2025-08-02": 33,
@@ -1338,7 +1338,7 @@
     "timeMonth": 484,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2025-11-19": 779,
+      "2025-11-19": 1004,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1711,7 +1711,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "34.30%",
+    "uptime": "34.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1722,7 +1722,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 779,
+      "2025-11-19": 1005,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -2142,7 +2142,7 @@
     "timeMonth": 829,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1005,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -2577,7 +2577,7 @@
     "time": 755,
     "timeDay": 791,
     "timeWeek": 536,
-    "timeMonth": 580,
+    "timeMonth": 588,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-08-05": 115,
@@ -2626,10 +2626,10 @@
     "time": 3151,
     "timeDay": 0,
     "timeWeek": 2610,
-    "timeMonth": 2614,
-    "timeYear": 2932,
+    "timeMonth": 2642,
+    "timeYear": 2934,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1005,
       "2025-11-18": 1427,
       "2025-11-17": 1423,
       "2025-11-16": 1440,
@@ -3013,7 +3013,7 @@
     "timeMonth": 679,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1005,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -3421,19 +3421,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "93.97%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.08%",
     "time": 2192,
-    "timeDay": 2756,
-    "timeWeek": 2806,
-    "timeMonth": 1882,
-    "timeYear": 2190,
+    "timeDay": 3556,
+    "timeWeek": 2780,
+    "timeMonth": 1878,
+    "timeYear": 2189,
     "dailyMinutesDown": {
-      "2025-11-19": 63,
+      "2025-11-19": 65,
       "2025-11-18": 39,
       "2025-11-17": 132,
       "2025-11-14": 88,
@@ -3491,8 +3491,7 @@
       "2025-07-21": 65,
       "2025-07-20": 27,
       "2025-07-19": 31,
-      "2025-07-18": 1175,
-      "2025-07-16": 17
+      "2025-07-18": 1175
     }
   },
   {
@@ -3558,7 +3557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1005,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -3942,7 +3941,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1005,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -4357,7 +4356,7 @@
     "uptimeYear": "94.23%",
     "time": 7933,
     "timeDay": 2633,
-    "timeWeek": 2469,
+    "timeWeek": 2492,
     "timeMonth": 2839,
     "timeYear": 7166,
     "dailyMinutesDown": {
@@ -4413,7 +4412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4424,7 +4423,7 @@
     "timeMonth": 1559,
     "timeYear": 1805,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1006,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -4845,7 +4844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 780,
+      "2025-11-19": 1006,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -5291,7 +5290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 781,
+      "2025-11-19": 1006,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -5875,7 +5874,7 @@
     "timeMonth": 1442,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2025-11-19": 781,
+      "2025-11-19": 1006,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -6255,7 +6254,7 @@
     "uptimeYear": "100.00%",
     "time": 512,
     "timeDay": 344,
-    "timeWeek": 405,
+    "timeWeek": 409,
     "timeMonth": 426,
     "timeYear": 495,
     "dailyMinutesDown": {}
