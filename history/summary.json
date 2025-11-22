@@ -49,7 +49,7 @@
     "timeMonth": 158,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 656,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -874,7 +874,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "17.04%",
+    "uptime": "17.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -1335,7 +1335,7 @@
     "timeMonth": 472,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -1719,7 +1719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -2139,7 +2139,7 @@
     "timeMonth": 830,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -2521,7 +2521,7 @@
     "timeDay": 847,
     "timeWeek": 1068,
     "timeMonth": 770,
-    "timeYear": 666,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   },
   {
@@ -2626,7 +2626,7 @@
     "timeMonth": 2645,
     "timeYear": 2936,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -3010,7 +3010,7 @@
     "timeMonth": 692,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -3419,19 +3419,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.30%",
     "time": 2180,
-    "timeDay": 2713,
+    "timeDay": 2865,
     "timeWeek": 2677,
     "timeMonth": 2009,
     "timeYear": 2169,
     "dailyMinutesDown": {
-      "2025-11-22": 83,
+      "2025-11-22": 76,
       "2025-11-21": 32,
       "2025-11-20": 47,
       "2025-11-19": 63,
@@ -3554,7 +3554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 606,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -3938,7 +3938,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-11-22": 607,
+      "2025-11-22": 657,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -4419,7 +4419,7 @@
     "timeMonth": 1510,
     "timeYear": 1782,
     "dailyMinutesDown": {
-      "2025-11-22": 607,
+      "2025-11-22": 658,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -4840,7 +4840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 607,
+      "2025-11-22": 658,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -5286,7 +5286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 607,
+      "2025-11-22": 658,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -5869,7 +5869,7 @@
     "timeMonth": 1442,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2025-11-22": 607,
+      "2025-11-22": 658,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
