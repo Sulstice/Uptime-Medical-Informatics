@@ -49,7 +49,7 @@
     "timeMonth": 155,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-11-30": 874,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -425,15 +425,15 @@
     "uptime": "99.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "12.89%",
-    "uptimeMonth": "77.02%",
-    "uptimeYear": "97.70%",
+    "uptimeMonth": "76.98%",
+    "uptimeYear": "97.69%",
     "time": 308,
     "timeDay": 0,
     "timeWeek": 311,
     "timeMonth": 286,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-11-30": 874,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -469,7 +469,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 874,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -894,7 +894,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 874,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1339,7 +1339,7 @@
     "timeMonth": 429,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-11-30": 875,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1723,7 +1723,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 875,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -2143,7 +2143,7 @@
     "timeMonth": 835,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2025-11-30": 875,
+      "2025-11-30": 891,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -2630,7 +2630,7 @@
     "timeMonth": 2700,
     "timeYear": 2930,
     "dailyMinutesDown": {
-      "2025-11-30": 875,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -3014,7 +3014,7 @@
     "timeMonth": 731,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-11-30": 875,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -3426,17 +3426,17 @@
     "slug": "itk-analysis-of-large-histology-datasets",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "89.29%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "97.01%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.30%",
     "time": 2232,
-    "timeDay": 3539,
+    "timeDay": 3680,
     "timeWeek": 3604,
     "timeMonth": 2636,
     "timeYear": 2206,
     "dailyMinutesDown": {
-      "2025-11-30": 96,
+      "2025-11-30": 85,
       "2025-11-29": 75,
       "2025-11-28": 34,
       "2025-11-27": 80,
@@ -3491,7 +3491,7 @@
       "2025-09-06": 27,
       "2025-09-05": 61,
       "2025-09-03": 16,
-      "2025-09-02": 16
+      "2025-09-02": 34
     }
   },
   {
@@ -3557,7 +3557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -3941,7 +3941,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -4355,7 +4355,7 @@
     "uptimeYear": "94.21%",
     "time": 6609,
     "timeDay": 2530,
-    "timeWeek": 2300,
+    "timeWeek": 2313,
     "timeMonth": 2389,
     "timeYear": 6458,
     "dailyMinutesDown": {
@@ -4424,7 +4424,7 @@
     "timeMonth": 1500,
     "timeYear": 1750,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -4845,7 +4845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -5291,7 +5291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 892,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -5873,7 +5873,7 @@
     "timeMonth": 1507,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2025-11-30": 876,
+      "2025-11-30": 893,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -6245,7 +6245,7 @@
     "url": "http://www.gastrointestinalatlas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gastrointestinalatlas.com.ico",
     "slug": "el-salvador-atlas-of-gastrointestinal-video-endoscopy-images-and-videos-of-hi-res-of-studies-taken-from-gastrointestinal-video-endoscopy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -6253,7 +6253,7 @@
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 2304,
-    "timeWeek": 696,
+    "timeWeek": 702,
     "timeMonth": 554,
     "timeYear": 520,
     "dailyMinutesDown": {}
