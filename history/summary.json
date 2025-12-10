@@ -49,7 +49,7 @@
     "timeMonth": 147,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-12-10": 989,
+      "2025-12-10": 1123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -425,15 +425,15 @@
     "uptime": "98.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.89%",
-    "uptimeYear": "94.93%",
+    "uptimeMonth": "43.58%",
+    "uptimeYear": "94.91%",
     "time": 308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 316,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-12-10": 989,
+      "2025-12-10": 1123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 989,
+      "2025-12-10": 1123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -893,7 +893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "16.76%",
+    "uptime": "16.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 989,
+      "2025-12-10": 1123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -1344,7 +1344,7 @@
     "timeMonth": 387,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1124,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -1728,7 +1728,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1124,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -2148,7 +2148,7 @@
     "timeMonth": 473,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1124,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -2635,7 +2635,7 @@
     "timeMonth": 2670,
     "timeYear": 2927,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1124,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -3019,7 +3019,7 @@
     "timeMonth": 763,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1124,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -3431,19 +3431,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.61%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.31%",
     "time": 2233,
-    "timeDay": 6184,
-    "timeWeek": 2376,
-    "timeMonth": 2672,
-    "timeYear": 2207,
+    "timeDay": 5897,
+    "timeWeek": 2375,
+    "timeMonth": 2673,
+    "timeYear": 2202,
     "dailyMinutesDown": {
-      "2025-12-10": 107,
+      "2025-12-10": 109,
       "2025-12-09": 45,
       "2025-12-08": 40,
       "2025-12-07": 26,
@@ -3491,8 +3491,7 @@
       "2025-10-02": 247,
       "2025-09-30": 63,
       "2025-09-29": 30,
-      "2025-09-27": 1125,
-      "2025-09-24": 34
+      "2025-09-27": 1125
     }
   },
   {
@@ -3557,7 +3556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1125,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -3941,7 +3940,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-12-10": 990,
+      "2025-12-10": 1125,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -4316,7 +4315,7 @@
     "timeDay": 0,
     "timeWeek": 885,
     "timeMonth": 1024,
-    "timeYear": 1500,
+    "timeYear": 1502,
     "dailyMinutesDown": {
       "2025-09-28": 64,
       "2025-09-26": 69,
@@ -4355,7 +4354,7 @@
     "uptimeYear": "94.15%",
     "time": 6379,
     "timeDay": 2504,
-    "timeWeek": 3504,
+    "timeWeek": 3562,
     "timeMonth": 2632,
     "timeYear": 6095,
     "dailyMinutesDown": {
@@ -4417,7 +4416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "65.02%",
+    "uptime": "65.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -4428,7 +4427,7 @@
     "timeMonth": 1482,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2025-12-10": 991,
+      "2025-12-10": 1125,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -4849,7 +4848,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 991,
+      "2025-12-10": 1125,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -5295,7 +5294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 991,
+      "2025-12-10": 1125,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -5878,7 +5877,7 @@
     "timeMonth": 1218,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-12-10": 991,
+      "2025-12-10": 1126,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -6258,7 +6257,7 @@
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 374,
-    "timeWeek": 484,
+    "timeWeek": 483,
     "timeMonth": 549,
     "timeYear": 519,
     "dailyMinutesDown": {}
