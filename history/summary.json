@@ -49,7 +49,7 @@
     "timeMonth": 143,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 438,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -425,7 +425,7 @@
     "uptime": "98.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.91%",
+    "uptimeMonth": "41.86%",
     "uptimeYear": "94.77%",
     "time": 308,
     "timeDay": 0,
@@ -433,7 +433,7 @@
     "timeMonth": 332,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 438,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 438,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 438,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -1345,7 +1345,7 @@
     "timeMonth": 506,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 439,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -1718,7 +1718,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "33.63%",
+    "uptime": "33.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1729,7 +1729,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 439,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -2149,7 +2149,7 @@
     "timeMonth": 475,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 439,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -2636,7 +2636,7 @@
     "timeMonth": 2610,
     "timeYear": 2925,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 439,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -3020,7 +3020,7 @@
     "timeMonth": 753,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-12-11": 415,
+      "2025-12-11": 439,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -3527,15 +3527,15 @@
     "url": "http://www.virtualpathology.leeds.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.virtualpathology.leeds.ac.uk.ico",
     "slug": "slide-library-of-virtual-pathology-university-of-leeds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1255,
-    "timeDay": 886,
-    "timeWeek": 1274,
+    "timeDay": 992,
+    "timeWeek": 1264,
     "timeMonth": 1189,
     "timeYear": 1278,
     "dailyMinutesDown": {}
@@ -3557,7 +3557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -3941,7 +3941,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -4428,7 +4428,7 @@
     "timeMonth": 1490,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -4849,7 +4849,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -5295,7 +5295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -5878,7 +5878,7 @@
     "timeMonth": 1218,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-12-11": 416,
+      "2025-12-11": 440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
