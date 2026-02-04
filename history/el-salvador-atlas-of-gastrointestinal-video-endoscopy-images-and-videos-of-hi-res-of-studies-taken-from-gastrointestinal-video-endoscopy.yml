@@ -1,7 +1,7 @@
 url: http://www.gastrointestinalatlas.com/
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2026-02-03T06:25:31.986Z
+status: down
+code: 415
+responseTime: 648
+lastUpdated: 2026-02-04T18:37:19.855Z
 startTime: 2022-11-27T02:09:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
