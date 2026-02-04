@@ -46,7 +46,7 @@
     "timeMonth": 195,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-02-04": 455,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -419,18 +419,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ida.loni.usc.edu.ico",
     "slug": "loni-image-data-archive",
     "status": "down",
-    "uptime": "93.51%",
+    "uptime": "93.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.71%",
+    "uptimeYear": "79.70%",
     "time": 308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -530,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -943,7 +943,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "15.96%",
+    "uptime": "15.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -954,7 +954,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -1388,7 +1388,7 @@
     "timeMonth": 3480,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -1772,7 +1772,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -2192,7 +2192,7 @@
     "timeMonth": 377,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -2678,7 +2678,7 @@
     "timeMonth": 0,
     "timeYear": 2902,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -3062,7 +3062,7 @@
     "timeMonth": 0,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2026-02-04": 456,
+      "2026-02-04": 489,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -3480,19 +3480,19 @@
     "url": "http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets",
     "icon": "https://icons.duckduckgo.com/ip3/www.na-mic.org.ico",
     "slug": "itk-analysis-of-large-histology-datasets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.92%",
-    "uptimeWeek": "89.86%",
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "89.84%",
     "uptimeMonth": "94.20%",
-    "uptimeYear": "99.38%",
-    "time": 2258,
-    "timeDay": 3616,
-    "timeWeek": 1866,
-    "timeMonth": 2673,
+    "uptimeYear": "99.39%",
+    "time": 2256,
+    "timeDay": 3396,
+    "timeWeek": 1853,
+    "timeMonth": 2667,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2026-02-04": 64,
+      "2026-02-04": 66,
       "2026-02-03": 109,
       "2026-02-02": 61,
       "2026-02-01": 114,
@@ -3521,7 +3521,7 @@
       "2026-01-05": 73,
       "2026-01-03": 270,
       "2026-01-02": 392,
-      "2026-01-01": 38
+      "2026-01-01": 19
     }
   },
   {
@@ -3565,7 +3565,7 @@
     "timeDay": 0,
     "timeWeek": 1372,
     "timeMonth": 1271,
-    "timeYear": 1282,
+    "timeYear": 1283,
     "dailyMinutesDown": {}
   },
   {
@@ -3585,7 +3585,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -3958,7 +3958,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hapshistology.wikifoundry.com.ico",
     "slug": "haps-histology-image-database",
     "status": "down",
-    "uptime": "10.69%",
+    "uptime": "10.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3969,7 +3969,7 @@
     "timeMonth": 0,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -4476,7 +4476,7 @@
     "timeMonth": 1649,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -4897,7 +4897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -5344,7 +5344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -5932,7 +5932,7 @@
     "timeMonth": 1918,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2026-02-04": 457,
+      "2026-02-04": 490,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
