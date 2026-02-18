@@ -1,7 +1,7 @@
 url: http://mde-lab.aegean.gr/index.php/downloads
-status: up
-code: 200
-responseTime: 4594
-lastUpdated: 2026-02-18T00:00:17.515Z
+status: down
+code: 415
+responseTime: 757
+lastUpdated: 2026-02-18T06:20:58.932Z
 startTime: 2022-11-27T02:09:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
