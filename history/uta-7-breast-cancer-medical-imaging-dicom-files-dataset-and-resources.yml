@@ -1,7 +1,7 @@
 url: https://github.com/MIMBCD-UI/dataset-uta7-dicom
-status: up
-code: 200
-responseTime: 686
-lastUpdated: 2026-04-17T23:13:08.988Z
+status: down
+code: 504
+responseTime: 11022
+lastUpdated: 2026-04-18T17:56:06.928Z
 startTime: 2022-11-27T02:08:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
