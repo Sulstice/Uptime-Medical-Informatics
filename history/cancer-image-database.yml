@@ -1,7 +1,7 @@
 url: https://emice.nci.nih.gov/caimage
-status: up
-code: 200
-responseTime: 3189
-lastUpdated: 2026-08-18T23:27:40.539Z
+status: down
+code: 404
+responseTime: 378
+lastUpdated: 2026-08-19T05:12:28.888Z
 startTime: 2022-11-27T02:08:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
