@@ -41,7 +41,7 @@
     "timeMonth": 455,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2026-09-03": 1212,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -414,11 +414,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ida.loni.usc.edu.ico",
     "slug": "loni-image-data-archive",
     "status": "down",
-    "uptime": "79.14%",
+    "uptime": "79.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.13%",
+    "uptimeYear": "22.10%",
     "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
@@ -427,7 +427,7 @@
     "dailyMinutesDown": {
       "2025-11-23": 1233,
       "2025-11-22": 411,
-      "2026-09-03": 1213,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -730,7 +730,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1213,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1144,7 +1144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1213,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1588,7 +1588,7 @@
     "timeMonth": 733,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2026-09-03": 1213,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1961,7 +1961,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.csee.usf.edu.ico",
     "slug": "ddsm-digital-database-for-screening-mammography",
     "status": "down",
-    "uptime": "27.12%",
+    "uptime": "27.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1972,7 +1972,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1213,
+      "2026-09-03": 1345,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -2392,7 +2392,7 @@
     "timeMonth": 273,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2026-09-03": 1213,
+      "2026-09-03": 1346,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -2960,7 +2960,7 @@
       "2025-11-17": 1423,
       "2025-11-16": 1440,
       "2025-11-18": 1427,
-      "2026-09-03": 1213,
+      "2026-09-03": 1346,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -3258,7 +3258,7 @@
     "slug": "cancer-image-database",
     "status": "down",
     "uptime": "3.66%",
-    "uptimeDay": "73.21%",
+    "uptimeDay": "64.01%",
     "uptimeWeek": "61.11%",
     "uptimeMonth": "18.23%",
     "uptimeYear": "13.80%",
@@ -3585,7 +3585,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1128,
-      "2026-09-03": 386
+      "2026-09-03": 518
     }
   },
   {
@@ -3593,11 +3593,11 @@
     "url": "https://digitalpathologyassociation.org/whole-slide-imaging-repository",
     "icon": "https://icons.duckduckgo.com/ip3/digitalpathologyassociation.org.ico",
     "slug": "dp-as-whole-slide-imaging-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.14%",
     "time": 625,
     "timeDay": 452,
@@ -3605,7 +3605,6 @@
     "timeMonth": 658,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-12-05": 16,
       "2025-12-07": 42,
       "2026-01-19": 16,
       "2026-01-27": 15,
@@ -3686,7 +3685,8 @@
       "2026-07-28": 137,
       "2026-08-25": 28,
       "2026-08-26": 50,
-      "2026-08-28": 347
+      "2026-08-28": 347,
+      "2026-09-03": 8
     }
   },
   {
@@ -3697,7 +3697,7 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "61.63%",
-    "uptimeWeek": "88.17%",
+    "uptimeWeek": "89.49%",
     "uptimeMonth": "91.95%",
     "uptimeYear": "98.51%",
     "time": 2752,
@@ -3846,7 +3846,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1214,
+      "2026-09-03": 1346,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -4230,7 +4230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1214,
+      "2026-09-03": 1346,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -4603,18 +4603,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdgp-images-from-the-fly-express-database",
     "status": "down",
-    "uptime": "85.82%",
+    "uptime": "85.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.55%",
+    "uptimeYear": "46.53%",
     "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-09-03": 1214,
+      "2026-09-03": 1346,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -4924,7 +4924,7 @@
     "timeMonth": 1177,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2026-09-03": 1214,
+      "2026-09-03": 1347,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -5343,7 +5343,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1215,
+      "2026-09-03": 1347,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -5771,7 +5771,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1215,
+      "2026-09-03": 1347,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -6339,7 +6339,7 @@
     "timeMonth": 0,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2026-09-03": 1215,
+      "2026-09-03": 1347,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
