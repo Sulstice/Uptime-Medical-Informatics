@@ -41,7 +41,7 @@
     "timeMonth": 472,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -414,11 +414,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ida.loni.usc.edu.ico",
     "slug": "loni-image-data-archive",
     "status": "down",
-    "uptime": "77.40%",
+    "uptime": "77.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.63%",
+    "uptimeYear": "13.60%",
     "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
@@ -427,7 +427,7 @@
     "dailyMinutesDown": {
       "2025-11-23": 1233,
       "2025-11-22": 411,
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -761,7 +761,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1133,17 +1133,17 @@
     "url": "http://www.cancerimagingarchive.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cancerimagingarchive.net.ico",
     "slug": "the-cancer-imaging-archive",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "54.19%",
-    "uptimeWeek": "78.43%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "99.24%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "43.83%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "99.21%",
     "time": 1135,
-    "timeDay": 925,
-    "timeWeek": 1019,
-    "timeMonth": 1008,
-    "timeYear": 1129,
+    "timeDay": 873,
+    "timeWeek": 1005,
+    "timeMonth": 1002,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2025-10-08": 52,
       "2025-10-21": 108,
@@ -1162,7 +1162,7 @@
       "2026-10-01": 38,
       "2026-10-03": 371,
       "2026-10-02": 88,
-      "2026-10-04": 659
+      "2026-10-04": 809
     }
   },
   {
@@ -1182,7 +1182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1564,7 +1564,7 @@
     "timeDay": 1294,
     "timeWeek": 905,
     "timeMonth": 894,
-    "timeYear": 791,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-12-19": 15,
       "2025-12-29": 11,
@@ -1628,9 +1628,9 @@
     "timeDay": 3346,
     "timeWeek": 3213,
     "timeMonth": 3305,
-    "timeYear": 1619,
+    "timeYear": 1623,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -2014,7 +2014,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -2396,7 +2396,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 748,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "timeDay": 277,
     "timeWeek": 304,
     "timeMonth": 307,
-    "timeYear": 333,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -2434,7 +2434,7 @@
     "timeMonth": 273,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2026-10-04": 1239,
+      "2026-10-04": 1408,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -2816,7 +2816,7 @@
     "timeDay": 726,
     "timeWeek": 675,
     "timeMonth": 711,
-    "timeYear": 1022,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   },
   {
@@ -2834,7 +2834,7 @@
     "timeDay": 766,
     "timeWeek": 706,
     "timeMonth": 665,
-    "timeYear": 787,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -2915,7 +2915,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipal.cnrs.fr.ico",
     "slug": "mitos-dataset",
     "status": "down",
-    "uptime": "32.99%",
+    "uptime": "32.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2924,7 +2924,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2577,
+    "timeYear": 2572,
     "dailyMinutesDown": {
       "2025-10-07": 1415,
       "2025-10-06": 1440,
@@ -2971,7 +2971,7 @@
       "2025-11-17": 1423,
       "2025-11-16": 1440,
       "2025-11-18": 1427,
-      "2026-10-04": 1239,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -3308,7 +3308,7 @@
     "timeDay": 273,
     "timeWeek": 262,
     "timeMonth": 380,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2026-06-12": 1424,
       "2026-06-11": 1440,
@@ -3596,7 +3596,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1128,
-      "2026-10-04": 1239,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -3740,14 +3740,14 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "82.23%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "92.33%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "98.01%",
     "time": 2962,
     "timeDay": 9157,
-    "timeWeek": 4073,
-    "timeMonth": 5199,
-    "timeYear": 3082,
+    "timeWeek": 4456,
+    "timeMonth": 5248,
+    "timeYear": 3075,
     "dailyMinutesDown": {
       "2026-07-02": 82,
       "2026-07-04": 305,
@@ -3899,7 +3899,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1240,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -4283,7 +4283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1240,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -4656,18 +4656,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdgp-images-from-the-fly-express-database",
     "status": "down",
-    "uptime": "83.93%",
+    "uptime": "83.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.06%",
+    "uptimeYear": "38.02%",
     "time": 269,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 304,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2026-10-04": 1240,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -4911,7 +4911,7 @@
     "timeDay": 665,
     "timeWeek": 779,
     "timeMonth": 746,
-    "timeYear": 847,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-01-03": 16,
       "2026-01-16": 68,
@@ -4945,7 +4945,7 @@
     "timeDay": 3989,
     "timeWeek": 4113,
     "timeMonth": 3898,
-    "timeYear": 2611,
+    "timeYear": 2602,
     "dailyMinutesDown": {
       "2026-06-20": 288,
       "2026-06-21": 244,
@@ -4993,7 +4993,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "51.25%",
+    "uptime": "51.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -5002,9 +5002,9 @@
     "timeDay": 0,
     "timeWeek": 861,
     "timeMonth": 1207,
-    "timeYear": 1419,
+    "timeYear": 1418,
     "dailyMinutesDown": {
-      "2026-10-04": 1240,
+      "2026-10-04": 1409,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -5423,7 +5423,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1240,
+      "2026-10-04": 1410,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -5851,7 +5851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 1241,
+      "2026-10-04": 1410,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -6233,7 +6233,7 @@
     "timeDay": 559,
     "timeWeek": 543,
     "timeMonth": 599,
-    "timeYear": 646,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-12-05": 21
     }
@@ -6277,7 +6277,7 @@
     "timeDay": 746,
     "timeWeek": 664,
     "timeMonth": 596,
-    "timeYear": 580,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-10-29": 370,
       "2025-12-15": 19,
@@ -6419,7 +6419,7 @@
     "timeMonth": 0,
     "timeYear": 1496,
     "dailyMinutesDown": {
-      "2026-10-04": 1241,
+      "2026-10-04": 1410,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
