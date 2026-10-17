@@ -14,7 +14,7 @@
     "timeDay": 955,
     "timeWeek": 1207,
     "timeMonth": 852,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-10-29": 281,
       "2025-12-14": 15,
@@ -39,9 +39,9 @@
     "timeDay": 741,
     "timeWeek": 487,
     "timeMonth": 474,
-    "timeYear": 289,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2026-10-17": 1288,
+      "2026-10-17": 1399,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -414,20 +414,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ida.loni.usc.edu.ico",
     "slug": "loni-image-data-archive",
     "status": "down",
-    "uptime": "76.69%",
+    "uptime": "76.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.06%",
+    "uptimeYear": "10.04%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 307,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-11-23": 1233,
       "2025-11-22": 411,
-      "2026-10-17": 1288,
+      "2026-10-17": 1399,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -774,7 +774,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1399,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -1146,16 +1146,16 @@
     "url": "http://www.cancerimagingarchive.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cancerimagingarchive.net.ico",
     "slug": "the-cancer-imaging-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "59.62%",
-    "uptimeWeek": "77.70%",
-    "uptimeMonth": "81.69%",
-    "uptimeYear": "98.39%",
+    "uptimeDay": "54.67%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "81.48%",
+    "uptimeYear": "98.37%",
     "time": 1115,
-    "timeDay": 889,
-    "timeWeek": 932,
-    "timeMonth": 978,
+    "timeDay": 906,
+    "timeWeek": 934,
+    "timeMonth": 977,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2025-10-21": 108,
@@ -1186,7 +1186,7 @@
       "2026-10-14": 360,
       "2026-10-16": 575,
       "2026-10-15": 118,
-      "2026-10-17": 520
+      "2026-10-17": 612
     }
   },
   {
@@ -1195,7 +1195,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adni.loni.ucla.edu.ico",
     "slug": "alzheimer-s-disease-neuroimaging-initiative",
     "status": "down",
-    "uptime": "13.09%",
+    "uptime": "13.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -1588,7 +1588,7 @@
     "timeDay": 1107,
     "timeWeek": 938,
     "timeMonth": 940,
-    "timeYear": 803,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2025-12-19": 15,
       "2025-12-29": 11,
@@ -1652,9 +1652,9 @@
     "timeDay": 3361,
     "timeWeek": 3281,
     "timeMonth": 3280,
-    "timeYear": 1727,
+    "timeYear": 1731,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -2038,7 +2038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -2420,7 +2420,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   },
   {
@@ -2438,7 +2438,7 @@
     "timeDay": 521,
     "timeWeek": 343,
     "timeMonth": 326,
-    "timeYear": 332,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   },
   {
@@ -2456,9 +2456,9 @@
     "timeDay": 0,
     "timeWeek": 252,
     "timeMonth": 269,
-    "timeYear": 476,
+    "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -2840,7 +2840,7 @@
     "timeDay": 887,
     "timeWeek": 602,
     "timeMonth": 663,
-    "timeYear": 1027,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   },
   {
@@ -2858,7 +2858,7 @@
     "timeDay": 960,
     "timeWeek": 658,
     "timeMonth": 666,
-    "timeYear": 798,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   },
   {
@@ -2894,7 +2894,7 @@
     "timeDay": 679,
     "timeWeek": 536,
     "timeMonth": 545,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2026-02-18": 19
     }
@@ -2982,7 +2982,7 @@
       "2025-11-17": 1423,
       "2025-11-16": 1440,
       "2025-11-18": 1427,
-      "2026-10-17": 1073,
+      "2026-10-17": 1184,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -3607,7 +3607,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1128,
-      "2026-10-17": 1289,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -3771,7 +3771,7 @@
     "timeDay": 1227,
     "timeWeek": 4710,
     "timeMonth": 3421,
-    "timeYear": 3147,
+    "timeYear": 3150,
     "dailyMinutesDown": {
       "2026-07-04": 132,
       "2026-07-05": 89,
@@ -3851,7 +3851,7 @@
     "timeDay": 890,
     "timeWeek": 791,
     "timeMonth": 811,
-    "timeYear": 812,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2026-03-20": 497,
       "2026-03-19": 1440,
@@ -3925,7 +3925,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1400,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -4309,7 +4309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -4682,18 +4682,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdgp-images-from-the-fly-express-database",
     "status": "down",
-    "uptime": "83.16%",
+    "uptime": "83.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.48%",
+    "uptimeYear": "34.46%",
     "time": 270,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 307,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -4950,7 +4950,7 @@
     "timeDay": 790,
     "timeWeek": 691,
     "timeMonth": 728,
-    "timeYear": 808,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-01-03": 16,
       "2026-01-16": 68,
@@ -4984,7 +4984,7 @@
     "timeDay": 3996,
     "timeWeek": 3669,
     "timeMonth": 4003,
-    "timeYear": 2549,
+    "timeYear": 2540,
     "dailyMinutesDown": {
       "2026-06-20": 288,
       "2026-06-21": 244,
@@ -5032,7 +5032,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmp.felk.cvut.cz.ico",
     "slug": "histology-cima-dataset",
     "status": "down",
-    "uptime": "50.78%",
+    "uptime": "50.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -5041,9 +5041,9 @@
     "timeDay": 1514,
     "timeWeek": 1479,
     "timeMonth": 1338,
-    "timeYear": 1406,
+    "timeYear": 1407,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -5425,7 +5425,7 @@
     "timeDay": 938,
     "timeWeek": 679,
     "timeMonth": 673,
-    "timeYear": 668,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2026-03-02": 18,
       "2026-06-02": 201,
@@ -5462,7 +5462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -5844,7 +5844,7 @@
     "timeDay": 418,
     "timeWeek": 434,
     "timeMonth": 483,
-    "timeYear": 498,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2026-01-08": 21,
       "2026-01-09": 18,
@@ -5890,7 +5890,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -6272,7 +6272,7 @@
     "timeDay": 780,
     "timeWeek": 759,
     "timeMonth": 621,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2025-12-05": 21
     }
@@ -6432,7 +6432,7 @@
     "timeDay": 2205,
     "timeWeek": 1808,
     "timeMonth": 2130,
-    "timeYear": 2638,
+    "timeYear": 2640,
     "dailyMinutesDown": {
       "2025-12-05": 55,
       "2025-12-04": 2,
@@ -6457,7 +6457,7 @@
     "timeMonth": 0,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2026-10-17": 1290,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -6839,7 +6839,7 @@
     "timeDay": 529,
     "timeWeek": 538,
     "timeMonth": 480,
-    "timeYear": 520,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -6875,7 +6875,7 @@
     "timeDay": 539,
     "timeWeek": 430,
     "timeMonth": 488,
-    "timeYear": 727,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-10-20": 199,
       "2025-11-06": 28,
